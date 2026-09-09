@@ -1,0 +1,22 @@
+INSERT INTO Customers (full_name, email) 
+VALUES
+('Aarav Sharma', 'aarav.sharma@example.com'),
+('Priya Patel', 'priya.patel@example.com'),
+('Rohan Gupta', 'rohan.gupta@example.com'),
+('Ananya Verma', 'ananya.verma@example.com'),
+('Vikram Singh', 'vikram.singh@example.com'),
+('Neha Reddy', 'neha.reddy@example.com'),
+('Aditya Joshi', 'aditya.joshi@example.com'),
+('Kavya Nair', 'kavya.nair@example.com'),
+('Siddharth Malhotra', 'siddharth.m@example.com'),
+('Pooja Bhatia', 'pooja.bhatia@example.com'),
+('Rahul Deshmukh', 'rahul.d@example.com'),
+('Sneha Kulkarni', 'sneha.k@example.com'),
+('Amitav Ghosh', 'amitav.ghosh@example.com'),
+('Divya Rao', 'divya.rao@example.com'),
+('Karan Mehta', 'karan.mehta@example.com'),
+('Riya Kapoor', 'riya.kapoor@example.com'),
+('Varun Aggarwal', 'varun.a@example.com'),
+('Ishita Saxena', 'ishita.saxena@example.com'),
+('Manish Kumar', 'manish.kumar@example.com'),
+('Tarun Prasad', 'tarun.prasad@example.com');

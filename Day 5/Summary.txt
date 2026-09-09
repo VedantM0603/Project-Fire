@@ -1,0 +1,7 @@
+Header-Detail Schema Migration: Transitioned from single-item orders to a scalable e-commerce architecture by creating the Customers profile table and splitting transactions into Orders (Header metadata) and Order_Items (Cart line items).
+
+Multi-Item Shopping Cart Engine: Updated the Python simulator to handle multi-product checkouts (1 to 3 distinct items per transaction), calculating line totals, dynamic pricing, and order grand totals in real time.
+
+Complex Atomic Transactions: Ensured that order header creation, line-item insertion, inventory deductions, dynamic price checks, and auto-restocks occur within a single, unified database transaction (conn.commit()).
+
+Entity Relationships & Foreign Keys: Enforced relational integrity across Customers, Orders, Order_Items, and Products with strict foreign key constraints.

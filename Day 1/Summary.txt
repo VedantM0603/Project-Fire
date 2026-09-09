@@ -1,0 +1,34 @@
+Day 1 focused on architecting the core relational schema, establishing data integrity rules. The database uses three primary tables to manage dark-store inventory, real-time customer purchases, and compliance auditing.
+
+🗄️ Relational Schema & Architecture
+
+1. Products (Parent Table)
+Purpose: Stores inventory metadata, current pricing caps, and stock thresholds.
+Key Columns: product_id (PK, IDENTITY), base_price, current_price, stock_quantity, min_stock_threshold.
+Integrity Guardrail: CHECK (stock_quantity >= 0) ensures inventory never drops below zero at the database layer.
+
+2. Orders (Transactional Child Table)
+Purpose: Captures incoming customer purchases and historical transaction prices.
+Key Columns: order_id (PK, IDENTITY), product_id (FK), quantity, sold_at_price, order_timestamp.
+Integrity Guardrail: FOREIGN KEY ... ON DELETE CASCADE maintains referential integrity by automatically cleaning up dependent transaction logs if a product entity is removed.
+
+3. Price_Audit_Log (System Compliance Table)
+Purpose: Provides a full audit trail for dynamic automated price mutations.
+Key Columns: log_id (PK, IDENTITY), product_id (FK), old_price, new_price, change_reason, changed_at.
+
+
+Domain Integrity via CHECK Constraints:
+
+Handled at the database engine level to protect against bad software/application updates that could push inventory counts into negative figures.
+
+Referential Integrity via ON DELETE CASCADE:
+
+Prevents "orphaned rows" in child tables (Orders, Price_Audit_Log) when parent records are deleted, ensuring database consistency without manual cascading scripts.
+
+Financial Precision:
+
+Used DECIMAL(10, 2) instead of FLOAT to avoid binary floating-point representation errors inherent in financial calculations.
+
+Data Normalization:
+
+Schema is structured in 3rd Normal Form (3NF) to minimize data redundancy across frequent customer orders.

@@ -1,0 +1,5 @@
+Algorithmic Dynamic Pricing: Developed a demand-aware pricing engine in Python that dynamically applies a 15% price surge (HIGH_DEMAND_SURGE) when stock falls below critical thresholds (less than 6 units) and a 10% clearance discount (OVERSTOCK_CLEARANCE) for excess inventory (more than 35 units).
+
+Automated Price Audit Trail: Integrated the Price_Audit_Log table into atomic database transactions to automatically track price volatility, capturing old_price, new_price, change reasons, and timestamps.
+
+SSMS Analytical Views: Built vw_Product_Price_Analytics in SQL Server to aggregate historical price shifts, tracking highest/lowest recorded prices alongside current stock levels.

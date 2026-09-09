@@ -1,0 +1,1047 @@
+[16:05:49] Order #1184 placed by Rohan Gupta: 2 item(s) | Total: ₹56.33
+[OVERSTOCK_CLEARANCE] Product #57: ₹105.70 -> ₹95.13
+[16:05:50] Order #1185 placed by Priya Patel: 1 item(s) | Total: ₹95.13
+[OVERSTOCK_CLEARANCE] Product #81: ₹26.24 -> ₹23.62
+[OVERSTOCK_CLEARANCE] Product #1: ₹22.68 -> ₹20.41
+[OVERSTOCK_CLEARANCE] Product #10: ₹34.54 -> ₹31.09
+[16:05:51] Order #1186 placed by Karan Mehta: 3 item(s) | Total: ₹137.30
+[OVERSTOCK_CLEARANCE] Product #21: ₹73.81 -> ₹66.43
+[OVERSTOCK_CLEARANCE] Product #68: ₹111.54 -> ₹100.39
+[16:05:52] Order #1187 placed by Tarun Prasad: 3 item(s) | Total: ₹1,176.53
+[OVERSTOCK_CLEARANCE] Product #18: ₹19.13 -> ₹17.22
+[OVERSTOCK_CLEARANCE] Product #22: ₹80.19 -> ₹72.17
+[16:05:53] Order #1188 placed by Priya Patel: 2 item(s) | Total: ₹161.56
+[OVERSTOCK_CLEARANCE] Product #73: ₹24.80 -> ₹22.32
+[16:05:54] Order #1189 placed by Ishita Saxena: 2 item(s) | Total: ₹220.05
+[16:05:55] Order #1190 placed by Aditya Joshi: 2 item(s) | Total: ₹852.50
+[OVERSTOCK_CLEARANCE] Product #81: ₹23.62 -> ₹21.26
+[16:05:56] Order #1191 placed by Ishita Saxena: 1 item(s) | Total: ₹63.78
+[OVERSTOCK_CLEARANCE] Product #88: ₹72.17 -> ₹64.95
+[OVERSTOCK_CLEARANCE] Product #31: ₹14.58 -> ₹13.12
+[16:05:57] Order #1192 placed by Kavya Nair: 3 item(s) | Total: ₹463.94
+[OVERSTOCK_CLEARANCE] Product #24: ₹310.00 -> ₹279.0
+[16:05:58] Order #1193 placed by Priya Patel: 2 item(s) | Total: ₹998.00
+[OVERSTOCK_CLEARANCE] Product #84: ₹72.90 -> ₹65.61
+[16:05:59] Order #1194 placed by Aditya Joshi: 1 item(s) | Total: ₹131.22
+[OVERSTOCK_CLEARANCE] Product #58: ₹129.60 -> ₹116.64
+[16:06:00] Order #1195 placed by Sneha Kulkarni: 1 item(s) | Total: ₹349.92
+[OVERSTOCK_CLEARANCE] Product #5: ₹56.10 -> ₹50.49
+[OVERSTOCK_CLEARANCE] Product #36: ₹44.55 -> ₹40.09
+[16:06:01] Order #1196 placed by Ishita Saxena: 3 item(s) | Total: ₹363.41
+[OVERSTOCK_CLEARANCE] Product #33: ₹14.58 -> ₹13.12
+[16:06:02] Order #1197 placed by Rahul Deshmukh: 1 item(s) | Total: ₹39.36
+[OVERSTOCK_CLEARANCE] Product #47: ₹38.88 -> ₹34.99
+[16:06:03] Order #1198 placed by Pooja Bhatia: 2 item(s) | Total: ₹148.93
+[OVERSTOCK_CLEARANCE] Product #90: ₹153.90 -> ₹138.51
+[OVERSTOCK_CLEARANCE] Product #22: ₹72.17 -> ₹64.95
+[16:06:04] Order #1199 placed by Aarav Sharma: 2 item(s) | Total: ₹406.92
+[OVERSTOCK_CLEARANCE] Product #68: ₹100.39 -> ₹90.35
+[OVERSTOCK_CLEARANCE] Product #49: ₹48.60 -> ₹43.74
+[16:06:06] Order #1200 placed by Priya Patel: 2 item(s) | Total: ₹314.79
+[16:06:07] Order #1201 placed by Varun Aggarwal: 1 item(s) | Total: ₹376.65
+[16:06:08] Order #1202 placed by Tarun Prasad: 1 item(s) | Total: ₹110.00
+[OVERSTOCK_CLEARANCE] Product #37: ₹49.57 -> ₹44.61
+[16:06:09] Order #1203 placed by Ishita Saxena: 2 item(s) | Total: ₹564.61
+[OVERSTOCK_CLEARANCE] Product #57: ₹95.13 -> ₹85.62
+[OVERSTOCK_CLEARANCE] Product #91: ₹215.00 -> ₹193.5
+[16:06:10] Order #1204 placed by Ananya Verma: 2 item(s) | Total: ₹472.62
+[OVERSTOCK_CLEARANCE] Product #57: ₹85.62 -> ₹77.06
+[16:06:11] Order #1205 placed by Priya Patel: 1 item(s) | Total: ₹154.12
+[OVERSTOCK_CLEARANCE] Product #68: ₹90.35 -> ₹81.31
+[OVERSTOCK_CLEARANCE] Product #2: ₹16.26 -> ₹14.63
+[16:06:12] Order #1206 placed by Neha Reddy: 2 item(s) | Total: ₹125.20
+[OVERSTOCK_CLEARANCE] Product #64: ₹30.71 -> ₹27.64
+[OVERSTOCK_CLEARANCE] Product #99: ₹85.05 -> ₹76.55
+[16:06:13] Order #1207 placed by Aditya Joshi: 2 item(s) | Total: ₹257.29
+[OVERSTOCK_CLEARANCE] Product #45: ₹8.61 -> ₹7.75
+[OVERSTOCK_CLEARANCE] Product #99: ₹76.55 -> ₹68.89
+[16:06:14] Order #1208 placed by Pooja Bhatia: 3 item(s) | Total: ₹350.10
+[OVERSTOCK_CLEARANCE] Product #36: ₹40.09 -> ₹36.08
+[OVERSTOCK_CLEARANCE] Product #47: ₹34.99 -> ₹31.49
+[16:06:15] Order #1209 placed by Divya Rao: 2 item(s) | Total: ₹67.57
+[OVERSTOCK_CLEARANCE] Product #7: ₹10.94 -> ₹9.85
+[OVERSTOCK_CLEARANCE] Product #2: ₹14.63 -> ₹13.17
+[OVERSTOCK_CLEARANCE] Product #9: ₹32.81 -> ₹29.53
+[16:06:16] Order #1210 placed by Ananya Verma: 3 item(s) | Total: ₹91.93
+[OVERSTOCK_CLEARANCE] Product #10: ₹31.09 -> ₹27.98
+[16:06:17] Order #1211 placed by Aarav Sharma: 1 item(s) | Total: ₹55.96
+[OVERSTOCK_CLEARANCE] Product #32: ₹16.20 -> ₹14.58
+[16:06:18] Order #1212 placed by Riya Kapoor: 3 item(s) | Total: ₹344.01
+[OVERSTOCK_CLEARANCE] Product #16: ₹23.62 -> ₹21.26
+[OVERSTOCK_CLEARANCE] Product #50: ₹26.58 -> ₹23.92
+[OVERSTOCK_CLEARANCE] Product #93: ₹117.00 -> ₹105.3
+[16:06:19] Order #1213 placed by Amitav Ghosh: 3 item(s) | Total: ₹174.40
+[OVERSTOCK_CLEARANCE] Product #20: ₹95.13 -> ₹85.62
+[OVERSTOCK_CLEARANCE] Product #34: ₹19.68 -> ₹17.71
+[OVERSTOCK_CLEARANCE] Product #28: ₹31.50 -> ₹28.35
+[16:06:20] Order #1214 placed by Kavya Nair: 3 item(s) | Total: ₹160.03
+[OVERSTOCK_CLEARANCE] Product #77: ₹11.81 -> ₹10.63
+[16:06:21] Order #1215 placed by Aditya Joshi: 1 item(s) | Total: ₹21.26
+[OVERSTOCK_CLEARANCE] Product #77: ₹10.63 -> ₹9.57
+[16:06:22] Order #1216 placed by Siddharth Malhotra: 2 item(s) | Total: ₹206.40
+[OVERSTOCK_CLEARANCE] Product #63: ₹60.75 -> ₹54.68
+[16:06:23] Order #1217 placed by Ananya Verma: 1 item(s) | Total: ₹164.04
+[16:06:24] Order #1218 placed by Divya Rao: 1 item(s) | Total: ₹131.22
+[OVERSTOCK_CLEARANCE] Product #17: ₹26.24 -> ₹23.62
+[16:06:25] Order #1219 placed by Neha Reddy: 3 item(s) | Total: ₹712.36
+[OVERSTOCK_CLEARANCE] Product #50: ₹23.92 -> ₹21.53
+[OVERSTOCK_CLEARANCE] Product #53: ₹36.08 -> ₹32.47
+[16:06:26] Order #1220 placed by Vikram Singh: 2 item(s) | Total: ₹108.00
+[OVERSTOCK_CLEARANCE] Product #70: ₹85.00 -> ₹76.5
+[16:06:27] Order #1221 placed by Sneha Kulkarni: 1 item(s) | Total: ₹76.50
+[OVERSTOCK_CLEARANCE] Product #36: ₹36.08 -> ₹32.47
+[OVERSTOCK_CLEARANCE] Product #22: ₹64.95 -> ₹58.46
+[16:06:28] Order #1222 placed by Rohan Gupta: 3 item(s) | Total: ₹269.66
+[OVERSTOCK_CLEARANCE] Product #80: ₹29.53 -> ₹26.58
+[OVERSTOCK_CLEARANCE] Product #5: ₹50.49 -> ₹45.44
+[16:06:29] Order #1223 placed by Aarav Sharma: 2 item(s) | Total: ₹189.48
+[OVERSTOCK_CLEARANCE] Product #80: ₹26.58 -> ₹23.92
+[16:06:30] Order #1224 placed by Aditya Joshi: 2 item(s) | Total: ₹155.14
+[OVERSTOCK_CLEARANCE] Product #80: ₹23.92 -> ₹21.53
+[16:06:31] Order #1225 placed by Aarav Sharma: 1 item(s) | Total: ₹43.06
+[OVERSTOCK_CLEARANCE] Product #6: ₹23.92 -> ₹21.53
+[OVERSTOCK_CLEARANCE] Product #73: ₹22.32 -> ₹20.09
+[16:06:32] Order #1226 placed by Riya Kapoor: 3 item(s) | Total: ₹347.51
+[OVERSTOCK_CLEARANCE] Product #64: ₹27.64 -> ₹24.88
+[OVERSTOCK_CLEARANCE] Product #32: ₹14.58 -> ₹13.12
+[16:06:33] Order #1227 placed by Manish Kumar: 3 item(s) | Total: ₹226.43
+[OVERSTOCK_CLEARANCE] Product #65: ₹18.18 -> ₹16.36
+[OVERSTOCK_CLEARANCE] Product #11: ₹49.50 -> ₹44.55
+[16:06:34] Order #1228 placed by Manish Kumar: 3 item(s) | Total: ₹490.53
+[OVERSTOCK_CLEARANCE] Product #57: ₹77.06 -> ₹69.35
+[OVERSTOCK_CLEARANCE] Product #94: ₹51.03 -> ₹45.93
+[16:06:35] Order #1229 placed by Ananya Verma: 3 item(s) | Total: ₹436.23
+[OVERSTOCK_CLEARANCE] Product #40: ₹26.24 -> ₹23.62
+[16:06:36] Order #1230 placed by Rohan Gupta: 1 item(s) | Total: ₹70.86
+[OVERSTOCK_CLEARANCE] Product #48: ₹22.97 -> ₹20.67
+[OVERSTOCK_CLEARANCE] Product #94: ₹45.93 -> ₹41.34
+[16:06:37] Order #1231 placed by Manish Kumar: 3 item(s) | Total: ₹259.82
+[OVERSTOCK_CLEARANCE] Product #40: ₹23.62 -> ₹21.26
+[OVERSTOCK_CLEARANCE] Product #6: ₹21.53 -> ₹19.38
+[OVERSTOCK_CLEARANCE] Product #95: ₹75.46 -> ₹67.91
+[16:06:38] Order #1232 placed by Aditya Joshi: 3 item(s) | Total: ₹189.83
+[OVERSTOCK_CLEARANCE] Product #66: ₹46.87 -> ₹42.18
+[OVERSTOCK_CLEARANCE] Product #33: ₹13.12 -> ₹11.81
+[OVERSTOCK_CLEARANCE] Product #80: ₹21.53 -> ₹19.38
+[16:06:39] Order #1233 placed by Varun Aggarwal: 3 item(s) | Total: ₹85.18
+[OVERSTOCK_CLEARANCE] Product #97: ₹113.40 -> ₹102.06
+[16:06:40] Order #1234 placed by Neha Reddy: 2 item(s) | Total: ₹597.06
+[OVERSTOCK_CLEARANCE] Product #74: ₹54.00 -> ₹48.6
+[OVERSTOCK_CLEARANCE] Product #10: ₹27.98 -> ₹25.18
+[16:06:41] Order #1235 placed by Karan Mehta: 2 item(s) | Total: ₹172.74
+[OVERSTOCK_CLEARANCE] Product #87: ₹64.80 -> ₹58.32
+[OVERSTOCK_CLEARANCE] Product #23: ₹121.38 -> ₹109.24
+[16:06:42] Order #1236 placed by Karan Mehta: 3 item(s) | Total: ₹576.24
+[OVERSTOCK_CLEARANCE] Product #77: ₹9.57 -> ₹8.61
+[OVERSTOCK_CLEARANCE] Product #58: ₹116.64 -> ₹104.98
+[OVERSTOCK_CLEARANCE] Product #49: ₹43.74 -> ₹39.37
+[16:06:44] Order #1237 placed by Riya Kapoor: 3 item(s) | Total: ₹336.68
+[OVERSTOCK_CLEARANCE] Product #77: ₹8.61 -> ₹7.75
+[16:06:45] Order #1238 placed by Priya Patel: 1 item(s) | Total: ₹23.25
+[OVERSTOCK_CLEARANCE] Product #96: ₹32.95 -> ₹29.66
+[16:06:46] Order #1239 placed by Priya Patel: 1 item(s) | Total: ₹29.66
+[OVERSTOCK_CLEARANCE] Product #90: ₹138.51 -> ₹124.66
+[16:06:47] Order #1240 placed by Amitav Ghosh: 1 item(s) | Total: ₹124.66
+[OVERSTOCK_CLEARANCE] Product #62: ₹120.29 -> ₹108.26
+[OVERSTOCK_CLEARANCE] Product #21: ₹66.43 -> ₹59.79
+[OVERSTOCK_CLEARANCE] Product #32: ₹13.12 -> ₹11.81
+[16:06:48] Order #1241 placed by Ishita Saxena: 3 item(s) | Total: ₹311.25
+[OVERSTOCK_CLEARANCE] Product #3: ₹35.43 -> ₹31.89
+[OVERSTOCK_CLEARANCE] Product #36: ₹32.47 -> ₹29.22
+[16:06:49] Order #1242 placed by Rahul Deshmukh: 3 item(s) | Total: ₹379.55
+[OVERSTOCK_CLEARANCE] Product #47: ₹31.49 -> ₹28.34
+[16:06:50] Order #1243 placed by Rahul Deshmukh: 1 item(s) | Total: ₹56.68
+[OVERSTOCK_CLEARANCE] Product #7: ₹9.85 -> ₹8.87
+[16:06:51] Order #1244 placed by Neha Reddy: 2 item(s) | Total: ₹642.21
+[OVERSTOCK_CLEARANCE] Product #81: ₹21.26 -> ₹19.13
+[16:06:52] Order #1245 placed by Ishita Saxena: 1 item(s) | Total: ₹19.13
+[OVERSTOCK_CLEARANCE] Product #79: ₹8.87 -> ₹7.98
+[16:06:53] Order #1246 placed by Vikram Singh: 1 item(s) | Total: ₹15.96
+[OVERSTOCK_CLEARANCE] Product #65: ₹16.36 -> ₹14.72
+[OVERSTOCK_CLEARANCE] Product #23: ₹109.24 -> ₹98.32
+[OVERSTOCK_CLEARANCE] Product #71: ₹27.70 -> ₹24.93
+[16:06:54] Order #1247 placed by Amitav Ghosh: 3 item(s) | Total: ₹261.22
+[OVERSTOCK_CLEARANCE] Product #68: ₹81.31 -> ₹73.18
+[OVERSTOCK_CLEARANCE] Product #16: ₹21.26 -> ₹19.13
+[16:06:55] Order #1248 placed by Rahul Deshmukh: 2 item(s) | Total: ₹276.93
+[OVERSTOCK_CLEARANCE] Product #31: ₹13.12 -> ₹11.81
+[OVERSTOCK_CLEARANCE] Product #33: ₹11.81 -> ₹10.63
+[16:06:56] Order #1249 placed by Amitav Ghosh: 2 item(s) | Total: ₹33.07
+[OVERSTOCK_CLEARANCE] Product #86: ₹60.06 -> ₹54.05
+[OVERSTOCK_CLEARANCE] Product #63: ₹54.68 -> ₹49.21
+[OVERSTOCK_CLEARANCE] Product #77: ₹7.75 -> ₹6.98
+[16:06:57] Order #1250 placed by Siddharth Malhotra: 3 item(s) | Total: ₹276.67
+[OVERSTOCK_CLEARANCE] Product #63: ₹49.21 -> ₹44.29
+[OVERSTOCK_CLEARANCE] Product #93: ₹105.30 -> ₹94.77
+[16:06:58] Order #1251 placed by Neha Reddy: 3 item(s) | Total: ₹259.06
+[OVERSTOCK_CLEARANCE] Product #21: ₹59.79 -> ₹53.81
+[OVERSTOCK_CLEARANCE] Product #93: ₹94.77 -> ₹85.29
+[16:06:59] Order #1252 placed by Ishita Saxena: 2 item(s) | Total: ₹192.91
+[OVERSTOCK_CLEARANCE] Product #40: ₹21.26 -> ₹19.13
+[OVERSTOCK_CLEARANCE] Product #81: ₹19.13 -> ₹17.22
+[OVERSTOCK_CLEARANCE] Product #20: ₹85.62 -> ₹77.06
+[16:07:00] Order #1253 placed by Siddharth Malhotra: 3 item(s) | Total: ₹286.66
+[OVERSTOCK_CLEARANCE] Product #94: ₹41.34 -> ₹37.21
+[OVERSTOCK_CLEARANCE] Product #48: ₹20.67 -> ₹18.6
+[16:07:01] Order #1254 placed by Rohan Gupta: 2 item(s) | Total: ₹130.22
+[OVERSTOCK_CLEARANCE] Product #16: ₹19.13 -> ₹17.22
+[OVERSTOCK_CLEARANCE] Product #90: ₹124.66 -> ₹112.19
+[16:07:02] Order #1255 placed by Riya Kapoor: 3 item(s) | Total: ₹666.63
+[16:07:03] Order #1256 placed by Aarav Sharma: 1 item(s) | Total: ₹80.00
+[OVERSTOCK_CLEARANCE] Product #86: ₹54.05 -> ₹48.64
+[16:07:04] Order #1257 placed by Kavya Nair: 1 item(s) | Total: ₹145.92
+[16:07:05] Order #1258 placed by Divya Rao: 1 item(s) | Total: ₹43.96
+[OVERSTOCK_CLEARANCE] Product #22: ₹58.46 -> ₹52.61
+[16:07:06] Order #1259 placed by Priya Patel: 2 item(s) | Total: ₹143.98
+[OVERSTOCK_CLEARANCE] Product #63: ₹44.29 -> ₹39.86
+[16:07:07] Order #1260 placed by Divya Rao: 1 item(s) | Total: ₹39.86
+[OVERSTOCK_CLEARANCE] Product #57: ₹69.35 -> ₹62.41
+[OVERSTOCK_CLEARANCE] Product #31: ₹11.81 -> ₹10.63
+[OVERSTOCK_CLEARANCE] Product #95: ₹67.91 -> ₹61.12
+[16:07:08] Order #1261 placed by Amitav Ghosh: 3 item(s) | Total: ₹280.24
+[OVERSTOCK_CLEARANCE] Product #10: ₹25.18 -> ₹22.66
+[OVERSTOCK_CLEARANCE] Product #95: ₹61.12 -> ₹55.01
+[16:07:09] Order #1262 placed by Vikram Singh: 2 item(s) | Total: ₹122.99
+[16:07:10] Order #1263 placed by Rohan Gupta: 1 item(s) | Total: ₹240.00
+[16:07:11] Order #1264 placed by Pooja Bhatia: 1 item(s) | Total: ₹60.00
+[OVERSTOCK_CLEARANCE] Product #32: ₹11.81 -> ₹10.63
+[OVERSTOCK_CLEARANCE] Product #37: ₹44.61 -> ₹40.15
+[OVERSTOCK_CLEARANCE] Product #54: ₹53.14 -> ₹47.83
+[16:07:12] Order #1265 placed by Karan Mehta: 3 item(s) | Total: ₹119.87
+[OVERSTOCK_CLEARANCE] Product #87: ₹58.32 -> ₹52.49
+[OVERSTOCK_CLEARANCE] Product #22: ₹52.61 -> ₹47.35
+[16:07:13] Order #1266 placed by Aarav Sharma: 2 item(s) | Total: ₹247.03
+[OVERSTOCK_CLEARANCE] Product #6: ₹19.38 -> ₹17.44
+[OVERSTOCK_CLEARANCE] Product #64: ₹24.88 -> ₹22.39
+[OVERSTOCK_CLEARANCE] Product #31: ₹10.63 -> ₹9.57
+[16:07:14] Order #1267 placed by Ananya Verma: 3 item(s) | Total: ₹49.40
+[OVERSTOCK_CLEARANCE] Product #65: ₹14.72 -> ₹13.25
+[OVERSTOCK_CLEARANCE] Product #74: ₹48.60 -> ₹43.74
+[OVERSTOCK_CLEARANCE] Product #79: ₹7.98 -> ₹7.18
+[16:07:15] Order #1268 placed by Riya Kapoor: 3 item(s) | Total: ₹134.41
+[OVERSTOCK_CLEARANCE] Product #20: ₹77.06 -> ₹69.35
+[16:07:16] Order #1269 placed by Ananya Verma: 1 item(s) | Total: ₹69.35
+[OVERSTOCK_CLEARANCE] Product #82: ₹20.41 -> ₹18.37
+[16:07:17] Order #1270 placed by Kavya Nair: 1 item(s) | Total: ₹55.11
+[OVERSTOCK_CLEARANCE] Product #38: ₹21.87 -> ₹19.68
+[OVERSTOCK_CLEARANCE] Product #7: ₹8.87 -> ₹7.98
+[OVERSTOCK_CLEARANCE] Product #93: ₹85.29 -> ₹76.76
+[16:07:18] Order #1271 placed by Sneha Kulkarni: 3 item(s) | Total: ₹265.92
+[16:07:19] Order #1272 placed by Vikram Singh: 1 item(s) | Total: ₹60.00
+[OVERSTOCK_CLEARANCE] Product #60: ₹36.08 -> ₹32.47
+[OVERSTOCK_CLEARANCE] Product #6: ₹17.44 -> ₹15.7
+[16:07:20] Order #1273 placed by Siddharth Malhotra: 2 item(s) | Total: ₹128.81
+[OVERSTOCK_CLEARANCE] Product #99: ₹68.89 -> ₹62.0
+[OVERSTOCK_CLEARANCE] Product #95: ₹55.01 -> ₹49.51
+[16:07:21] Order #1274 placed by Varun Aggarwal: 2 item(s) | Total: ₹161.02
+[OVERSTOCK_CLEARANCE] Product #17: ₹23.62 -> ₹21.26
+[16:07:22] Order #1275 placed by Karan Mehta: 2 item(s) | Total: ₹501.79
+[OVERSTOCK_CLEARANCE] Product #57: ₹62.41 -> ₹56.17
+[16:07:23] Order #1276 placed by Aditya Joshi: 1 item(s) | Total: ₹168.51
+[OVERSTOCK_CLEARANCE] Product #31: ₹9.57 -> ₹8.61
+[OVERSTOCK_CLEARANCE] Product #94: ₹37.21 -> ₹33.49
+[16:07:24] Order #1277 placed by Rahul Deshmukh: 2 item(s) | Total: ₹42.10
+[OVERSTOCK_CLEARANCE] Product #50: ₹21.53 -> ₹19.38
+[OVERSTOCK_CLEARANCE] Product #94: ₹33.49 -> ₹30.14
+[16:07:25] Order #1278 placed by Amitav Ghosh: 3 item(s) | Total: ₹319.04
+[OVERSTOCK_CLEARANCE] Product #41: ₹52.49 -> ₹47.24
+[OVERSTOCK_CLEARANCE] Product #76: ₹20.25 -> ₹18.23
+[16:07:26] Order #1279 placed by Kavya Nair: 2 item(s) | Total: ₹65.47
+[OVERSTOCK_CLEARANCE] Product #33: ₹10.63 -> ₹9.57
+[16:07:28] Order #1280 placed by Manish Kumar: 1 item(s) | Total: ₹28.71
+[OVERSTOCK_CLEARANCE] Product #19: ₹117.00 -> ₹105.3
+[16:07:29] Order #1281 placed by Neha Reddy: 1 item(s) | Total: ₹315.90
+[16:07:30] Order #1282 placed by Amitav Ghosh: 1 item(s) | Total: ₹65.61
+[OVERSTOCK_CLEARANCE] Product #100: ₹61.96 -> ₹55.76
+[16:07:31] Order #1283 placed by Siddharth Malhotra: 1 item(s) | Total: ₹55.76
+[OVERSTOCK_CLEARANCE] Product #28: ₹28.35 -> ₹25.52
+[OVERSTOCK_CLEARANCE] Product #65: ₹13.25 -> ₹11.93
+[16:07:32] Order #1284 placed by Neha Reddy: 3 item(s) | Total: ₹289.49
+[OVERSTOCK_CLEARANCE] Product #16: ₹17.22 -> ₹15.5
+[OVERSTOCK_CLEARANCE] Product #28: ₹25.52 -> ₹22.97
+[16:07:33] Order #1285 placed by Varun Aggarwal: 3 item(s) | Total: ₹218.47
+[OVERSTOCK_CLEARANCE] Product #76: ₹18.23 -> ₹16.41
+[16:07:34] Order #1286 placed by Karan Mehta: 1 item(s) | Total: ₹32.82
+[OVERSTOCK_CLEARANCE] Product #49: ₹39.37 -> ₹35.43
+[16:07:35] Order #1287 placed by Amitav Ghosh: 2 item(s) | Total: ₹226.56
+[OVERSTOCK_CLEARANCE] Product #29: ₹240.00 -> ₹216.0
+[OVERSTOCK_CLEARANCE] Product #57: ₹56.17 -> ₹50.55
+[16:07:36] Order #1288 placed by Aditya Joshi: 2 item(s) | Total: ₹317.10
+[OVERSTOCK_CLEARANCE] Product #37: ₹40.15 -> ₹36.13
+[16:07:37] Order #1289 placed by Karan Mehta: 1 item(s) | Total: ₹36.13
+[OVERSTOCK_CLEARANCE] Product #26: ₹11.81 -> ₹10.63
+[16:07:38] Order #1290 placed by Varun Aggarwal: 1 item(s) | Total: ₹21.26
+[OVERSTOCK_CLEARANCE] Product #38: ₹19.68 -> ₹17.71
+[16:07:39] Order #1291 placed by Rahul Deshmukh: 1 item(s) | Total: ₹53.13
+[OVERSTOCK_CLEARANCE] Product #46: ₹40.82 -> ₹36.74
+[16:07:40] Order #1292 placed by Siddharth Malhotra: 1 item(s) | Total: ₹110.22
+[OVERSTOCK_CLEARANCE] Product #93: ₹76.76 -> ₹69.08
+[OVERSTOCK_CLEARANCE] Product #31: ₹8.61 -> ₹7.75
+[OVERSTOCK_CLEARANCE] Product #48: ₹18.60 -> ₹16.74
+[16:07:41] Order #1293 placed by Riya Kapoor: 3 item(s) | Total: ₹101.32
+[OVERSTOCK_CLEARANCE] Product #38: ₹17.71 -> ₹15.94
+[16:07:42] Order #1294 placed by Riya Kapoor: 1 item(s) | Total: ₹15.94
+[OVERSTOCK_CLEARANCE] Product #17: ₹21.26 -> ₹19.13
+[16:07:43] Order #1295 placed by Sneha Kulkarni: 1 item(s) | Total: ₹57.39
+[OVERSTOCK_CLEARANCE] Product #96: ₹29.66 -> ₹26.69
+[OVERSTOCK_CLEARANCE] Product #82: ₹18.37 -> ₹16.53
+[16:07:44] Order #1296 placed by Neha Reddy: 2 item(s) | Total: ₹59.75
+[OVERSTOCK_CLEARANCE] Product #95: ₹49.51 -> ₹44.56
+[OVERSTOCK_CLEARANCE] Product #56: ₹220.50 -> ₹198.45
+[16:07:45] Order #1297 placed by Kavya Nair: 2 item(s) | Total: ₹530.58
+[16:07:46] Order #1298 placed by Varun Aggarwal: 2 item(s) | Total: ₹341.50
+[OVERSTOCK_CLEARANCE] Product #70: ₹76.50 -> ₹68.85
+[16:07:47] Order #1299 placed by Ishita Saxena: 1 item(s) | Total: ₹206.55
+[OVERSTOCK_CLEARANCE] Product #78: ₹28.35 -> ₹25.52
+[OVERSTOCK_CLEARANCE] Product #17: ₹19.13 -> ₹17.22
+[16:07:48] Order #1300 placed by Rohan Gupta: 2 item(s) | Total: ₹93.78
+[OVERSTOCK_CLEARANCE] Product #87: ₹52.49 -> ₹47.24
+[16:07:49] Order #1301 placed by Amitav Ghosh: 1 item(s) | Total: ₹47.24
+[OVERSTOCK_CLEARANCE] Product #54: ₹47.83 -> ₹43.05
+[OVERSTOCK_CLEARANCE] Product #47: ₹28.34 -> ₹25.51
+[16:07:50] Order #1302 placed by Amitav Ghosh: 3 item(s) | Total: ₹260.39
+[OVERSTOCK_CLEARANCE] Product #45: ₹7.75 -> ₹6.98
+[16:07:51] Order #1303 placed by Manish Kumar: 1 item(s) | Total: ₹6.98
+[OVERSTOCK_CLEARANCE] Product #26: ₹10.63 -> ₹9.57
+[16:07:52] Order #1304 placed by Tarun Prasad: 1 item(s) | Total: ₹28.71
+[OVERSTOCK_CLEARANCE] Product #27: ₹20.67 -> ₹18.6
+[OVERSTOCK_CLEARANCE] Product #3: ₹31.89 -> ₹28.7
+[16:07:53] Order #1305 placed by Kavya Nair: 2 item(s) | Total: ₹141.90
+[OVERSTOCK_CLEARANCE] Product #70: ₹68.85 -> ₹61.96
+[16:07:54] Order #1306 placed by Karan Mehta: 2 item(s) | Total: ₹141.68
+[16:07:55] Order #1307 placed by Kavya Nair: 1 item(s) | Total: ₹218.70
+[OVERSTOCK_CLEARANCE] Product #28: ₹22.97 -> ₹20.67
+[OVERSTOCK_CLEARANCE] Product #87: ₹47.24 -> ₹42.52
+[OVERSTOCK_CLEARANCE] Product #72: ₹23.33 -> ₹21.0
+[16:07:56] Order #1308 placed by Sneha Kulkarni: 3 item(s) | Total: ₹125.53
+[OVERSTOCK_CLEARANCE] Product #37: ₹36.13 -> ₹32.52
+[16:07:57] Order #1309 placed by Priya Patel: 1 item(s) | Total: ₹97.56
+[16:07:58] Order #1310 placed by Karan Mehta: 1 item(s) | Total: ₹38.76
+[OVERSTOCK_CLEARANCE] Product #96: ₹26.69 -> ₹24.02
+[16:07:59] Order #1311 placed by Rahul Deshmukh: 2 item(s) | Total: ₹408.04
+[16:08:00] Order #1312 placed by Manish Kumar: 1 item(s) | Total: ₹148.78
+[OVERSTOCK_CLEARANCE] Product #26: ₹9.57 -> ₹8.61
+[16:08:01] Order #1313 placed by Karan Mehta: 2 item(s) | Total: ₹83.97
+[OVERSTOCK_CLEARANCE] Product #49: ₹35.43 -> ₹31.89
+[OVERSTOCK_CLEARANCE] Product #69: ₹48.42 -> ₹43.58
+[16:08:02] Order #1314 placed by Siddharth Malhotra: 3 item(s) | Total: ₹232.91
+[OVERSTOCK_CLEARANCE] Product #62: ₹108.26 -> ₹97.43
+[16:08:03] Order #1315 placed by Varun Aggarwal: 1 item(s) | Total: ₹194.86
+[OVERSTOCK_CLEARANCE] Product #34: ₹17.71 -> ₹15.94
+[OVERSTOCK_CLEARANCE] Product #23: ₹98.32 -> ₹88.49
+[16:08:04] Order #1316 placed by Rohan Gupta: 3 item(s) | Total: ₹427.56
+[OVERSTOCK_CLEARANCE] Product #82: ₹16.53 -> ₹14.88
+[OVERSTOCK_CLEARANCE] Product #81: ₹17.22 -> ₹15.5
+[16:08:05] Order #1317 placed by Riya Kapoor: 3 item(s) | Total: ₹241.38
+[OVERSTOCK_CLEARANCE] Product #78: ₹25.52 -> ₹22.97
+[16:08:06] Order #1318 placed by Manish Kumar: 2 item(s) | Total: ₹788.44
+[OVERSTOCK_CLEARANCE] Product #90: ₹112.19 -> ₹100.97
+[16:08:07] Order #1319 placed by Vikram Singh: 1 item(s) | Total: ₹302.91
+[OVERSTOCK_CLEARANCE] Product #95: ₹44.56 -> ₹40.1
+[OVERSTOCK_CLEARANCE] Product #48: ₹16.74 -> ₹15.07
+[OVERSTOCK_CLEARANCE] Product #45: ₹6.98 -> ₹6.28
+[16:08:08] Order #1320 placed by Aditya Joshi: 3 item(s) | Total: ₹76.52
+[OVERSTOCK_CLEARANCE] Product #74: ₹43.74 -> ₹39.37
+[16:08:09] Order #1321 placed by Karan Mehta: 1 item(s) | Total: ₹118.11
+[OVERSTOCK_CLEARANCE] Product #100: ₹55.76 -> ₹50.18
+[OVERSTOCK_CLEARANCE] Product #46: ₹36.74 -> ₹33.07
+[16:08:10] Order #1322 placed by Vikram Singh: 2 item(s) | Total: ₹83.25
+[OVERSTOCK_CLEARANCE] Product #79: ₹7.18 -> ₹6.46
+[16:08:11] Order #1323 placed by Kavya Nair: 3 item(s) | Total: ₹206.40
+[OVERSTOCK_CLEARANCE] Product #9: ₹29.53 -> ₹26.58
+[OVERSTOCK_CLEARANCE] Product #46: ₹33.07 -> ₹29.76
+[OVERSTOCK_CLEARANCE] Product #69: ₹43.58 -> ₹39.22
+[16:08:12] Order #1324 placed by Manish Kumar: 3 item(s) | Total: ₹230.34
+[OVERSTOCK_CLEARANCE] Product #43: ₹40.50 -> ₹36.45
+[16:08:13] Order #1325 placed by Kavya Nair: 1 item(s) | Total: ₹72.90
+[OVERSTOCK_CLEARANCE] Product #99: ₹62.00 -> ₹55.8
+[OVERSTOCK_CLEARANCE] Product #29: ₹216.00 -> ₹194.4
+[OVERSTOCK_CLEARANCE] Product #91: ₹193.50 -> ₹174.15
+[16:08:14] Order #1326 placed by Riya Kapoor: 3 item(s) | Total: ₹884.25
+[OVERSTOCK_CLEARANCE] Product #56: ₹198.45 -> ₹178.6
+[16:08:15] Order #1327 placed by Kavya Nair: 1 item(s) | Total: ₹535.80
+[OVERSTOCK_CLEARANCE] Product #53: ₹32.47 -> ₹29.22
+[OVERSTOCK_CLEARANCE] Product #6: ₹15.70 -> ₹14.13
+[OVERSTOCK_CLEARANCE] Product #2: ₹13.17 -> ₹11.85
+[16:08:16] Order #1328 placed by Tarun Prasad: 3 item(s) | Total: ₹141.90
+[OVERSTOCK_CLEARANCE] Product #6: ₹14.13 -> ₹12.72
+[OVERSTOCK_CLEARANCE] Product #74: ₹39.37 -> ₹35.43
+[16:08:17] Order #1329 placed by Divya Rao: 3 item(s) | Total: ₹257.70
+[OVERSTOCK_CLEARANCE] Product #49: ₹31.89 -> ₹28.7
+[16:08:18] Order #1330 placed by Sneha Kulkarni: 1 item(s) | Total: ₹57.40
+[OVERSTOCK_CLEARANCE] Product #45: ₹6.28 -> ₹5.65
+[OVERSTOCK_CLEARANCE] Product #1: ₹20.41 -> ₹18.37
+[16:08:20] Order #1331 placed by Vikram Singh: 3 item(s) | Total: ₹263.24
+[OVERSTOCK_CLEARANCE] Product #78: ₹22.97 -> ₹20.67
+[HIGH_DEMAND_SURGE] Product #4: ₹247.50 -> ₹284.62
+[16:08:21] Order #1332 placed by Rahul Deshmukh: 2 item(s) | Total: ₹895.20
+[16:08:22] Order #1333 placed by Varun Aggarwal: 2 item(s) | Total: ₹281.50
+[OVERSTOCK_CLEARANCE] Product #29: ₹194.40 -> ₹174.96
+[16:08:23] Order #1334 placed by Karan Mehta: 1 item(s) | Total: ₹174.96
+[OVERSTOCK_CLEARANCE] Product #73: ₹20.09 -> ₹18.08
+[16:08:24] Order #1335 placed by Kavya Nair: 3 item(s) | Total: ₹240.94
+[OVERSTOCK_CLEARANCE] Product #71: ₹24.93 -> ₹22.44
+[OVERSTOCK_CLEARANCE] Product #97: ₹102.06 -> ₹91.85
+[16:08:25] Order #1336 placed by Divya Rao: 2 item(s) | Total: ₹228.58
+[16:08:26] Order #1337 placed by Aditya Joshi: 2 item(s) | Total: ₹341.04
+[OVERSTOCK_CLEARANCE] Product #67: ₹263.25 -> ₹236.93
+[16:08:27] Order #1338 placed by Priya Patel: 1 item(s) | Total: ₹236.93
+[OVERSTOCK_CLEARANCE] Product #26: ₹8.61 -> ₹7.75
+[16:08:28] Order #1339 placed by Aarav Sharma: 2 item(s) | Total: ₹47.84
+[OVERSTOCK_CLEARANCE] Product #21: ₹53.81 -> ₹48.43
+[OVERSTOCK_CLEARANCE] Product #41: ₹47.24 -> ₹42.52
+[16:08:29] Order #1340 placed by Aditya Joshi: 3 item(s) | Total: ₹173.33
+[OVERSTOCK_CLEARANCE] Product #65: ₹11.93 -> ₹10.74
+[16:08:30] Order #1341 placed by Priya Patel: 2 item(s) | Total: ₹272.22
+[OVERSTOCK_CLEARANCE] Product #60: ₹32.47 -> ₹29.22
+[16:08:31] Order #1342 placed by Priya Patel: 2 item(s) | Total: ₹148.80
+[16:08:32] Order #1343 placed by Karan Mehta: 1 item(s) | Total: ₹65.61
+[OVERSTOCK_CLEARANCE] Product #64: ₹22.39 -> ₹20.15
+[OVERSTOCK_CLEARANCE] Product #73: ₹18.08 -> ₹16.27
+[16:08:33] Order #1344 placed by Neha Reddy: 3 item(s) | Total: ₹148.02
+[OVERSTOCK_CLEARANCE] Product #69: ₹39.22 -> ₹35.3
+[16:08:34] Order #1345 placed by Priya Patel: 1 item(s) | Total: ₹35.30
+[OVERSTOCK_CLEARANCE] Product #96: ₹24.02 -> ₹21.62
+[HIGH_DEMAND_SURGE] Product #13: ₹60.00 -> ₹69.0
+[16:08:35] Order #1346 placed by Riya Kapoor: 2 item(s) | Total: ₹181.24
+[OVERSTOCK_CLEARANCE] Product #21: ₹48.43 -> ₹43.59
+[16:08:36] Order #1347 placed by Sneha Kulkarni: 2 item(s) | Total: ₹263.59
+[HIGH_DEMAND_SURGE] Product #13: ₹69.00 -> ₹79.35
+[OVERSTOCK_CLEARANCE] Product #10: ₹22.66 -> ₹20.39
+[16:08:37] Order #1348 placed by Sneha Kulkarni: 3 item(s) | Total: ₹174.13
+[OVERSTOCK_CLEARANCE] Product #18: ₹17.22 -> ₹15.5
+[16:08:38] Order #1349 placed by Manish Kumar: 1 item(s) | Total: ₹31.00
+[OVERSTOCK_CLEARANCE] Product #15: ₹68.89 -> ₹62.0
+[16:08:39] Order #1350 placed by Riya Kapoor: 2 item(s) | Total: ₹842.00
+[16:08:40] Order #1351 placed by Manish Kumar: 1 item(s) | Total: ₹145.80
+[OVERSTOCK_CLEARANCE] Product #24: ₹279.00 -> ₹251.1
+[OVERSTOCK_CLEARANCE] Product #5: ₹45.44 -> ₹40.9
+[16:08:41] Order #1352 placed by Riya Kapoor: 3 item(s) | Total: ₹550.94
+[OVERSTOCK_CLEARANCE] Product #93: ₹69.08 -> ₹62.17
+[OVERSTOCK_CLEARANCE] Product #74: ₹35.43 -> ₹31.89
+[OVERSTOCK_CLEARANCE] Product #38: ₹15.94 -> ₹14.35
+[16:08:42] Order #1353 placed by Kavya Nair: 3 item(s) | Total: ₹202.47
+[OVERSTOCK_CLEARANCE] Product #48: ₹15.07 -> ₹13.56
+[16:08:43] Order #1354 placed by Vikram Singh: 1 item(s) | Total: ₹40.68
+[OVERSTOCK_CLEARANCE] Product #62: ₹97.43 -> ₹87.69
+[OVERSTOCK_CLEARANCE] Product #72: ₹21.00 -> ₹18.9
+[16:08:44] Order #1355 placed by Ananya Verma: 2 item(s) | Total: ₹319.77
+[OVERSTOCK_CLEARANCE] Product #91: ₹174.15 -> ₹156.74
+[OVERSTOCK_CLEARANCE] Product #50: ₹19.38 -> ₹17.44
+[16:08:45] Order #1356 placed by Amitav Ghosh: 2 item(s) | Total: ₹191.62
+[OVERSTOCK_CLEARANCE] Product #78: ₹20.67 -> ₹18.6
+[HIGH_DEMAND_SURGE] Product #4: ₹284.62 -> ₹327.31
+[RESTOCK ALERT] Product #4 was low (4). Auto replenished +20 units.
+[16:08:46] Order #1357 placed by Rohan Gupta: 2 item(s) | Total: ₹691.82
+[OVERSTOCK_CLEARANCE] Product #35: ₹83.84 -> ₹75.46
+[16:08:47] Order #1358 placed by Aarav Sharma: 1 item(s) | Total: ₹150.92
+[OVERSTOCK_CLEARANCE] Product #93: ₹62.17 -> ₹55.95
+[OVERSTOCK_CLEARANCE] Product #11: ₹44.55 -> ₹40.09
+[16:08:48] Order #1359 placed by Sneha Kulkarni: 3 item(s) | Total: ₹268.69
+[OVERSTOCK_CLEARANCE] Product #69: ₹35.30 -> ₹31.77
+[OVERSTOCK_CLEARANCE] Product #78: ₹18.60 -> ₹16.74
+[16:08:49] Order #1360 placed by Varun Aggarwal: 3 item(s) | Total: ₹243.38
+[OVERSTOCK_CLEARANCE] Product #99: ₹55.80 -> ₹50.22
+[OVERSTOCK_CLEARANCE] Product #57: ₹50.55 -> ₹45.49
+[16:08:50] Order #1361 placed by Amitav Ghosh: 3 item(s) | Total: ₹547.13
+[OVERSTOCK_CLEARANCE] Product #57: ₹45.49 -> ₹40.94
+[16:08:51] Order #1362 placed by Rahul Deshmukh: 1 item(s) | Total: ₹40.94
+[OVERSTOCK_CLEARANCE] Product #81: ₹15.50 -> ₹13.95
+[16:08:52] Order #1363 placed by Rahul Deshmukh: 2 item(s) | Total: ₹320.13
+[16:08:53] Order #1364 placed by Amitav Ghosh: 1 item(s) | Total: ₹459.27
+[OVERSTOCK_CLEARANCE] Product #100: ₹50.18 -> ₹45.16
+[OVERSTOCK_CLEARANCE] Product #26: ₹7.75 -> ₹6.98
+[16:08:54] Order #1365 placed by Siddharth Malhotra: 2 item(s) | Total: ₹66.10
+[OVERSTOCK_CLEARANCE] Product #78: ₹16.74 -> ₹15.07
+[16:08:55] Order #1366 placed by Divya Rao: 2 item(s) | Total: ₹146.29
+[OVERSTOCK_CLEARANCE] Product #70: ₹61.96 -> ₹55.76
+[OVERSTOCK_CLEARANCE] Product #24: ₹251.10 -> ₹225.99
+[OVERSTOCK_CLEARANCE] Product #11: ₹40.09 -> ₹36.08
+[16:08:56] Order #1367 placed by Rohan Gupta: 3 item(s) | Total: ₹353.91
+[OVERSTOCK_CLEARANCE] Product #87: ₹42.52 -> ₹38.27
+[16:08:57] Order #1368 placed by Priya Patel: 2 item(s) | Total: ₹134.68
+[OVERSTOCK_CLEARANCE] Product #71: ₹22.44 -> ₹20.2
+[16:08:59] Order #1369 placed by Siddharth Malhotra: 1 item(s) | Total: ₹20.20
+[OVERSTOCK_CLEARANCE] Product #37: ₹32.52 -> ₹29.27
+[OVERSTOCK_CLEARANCE] Product #58: ₹104.98 -> ₹94.48
+[OVERSTOCK_CLEARANCE] Product #41: ₹42.52 -> ₹38.27
+[16:09:00] Order #1370 placed by Riya Kapoor: 3 item(s) | Total: ₹427.52
+[16:09:01] Order #1371 placed by Neha Reddy: 1 item(s) | Total: ₹160.00
+[OVERSTOCK_CLEARANCE] Product #22: ₹47.35 -> ₹42.62
+[16:09:02] Order #1372 placed by Varun Aggarwal: 2 item(s) | Total: ₹304.78
+[OVERSTOCK_CLEARANCE] Product #66: ₹42.18 -> ₹37.96
+[OVERSTOCK_CLEARANCE] Product #28: ₹20.67 -> ₹18.6
+[16:09:03] Order #1373 placed by Riya Kapoor: 2 item(s) | Total: ₹113.12
+[OVERSTOCK_CLEARANCE] Product #70: ₹55.76 -> ₹50.18
+[16:09:04] Order #1374 placed by Varun Aggarwal: 1 item(s) | Total: ₹100.36
+[OVERSTOCK_CLEARANCE] Product #42: ₹27.00 -> ₹24.3
+[16:09:05] Order #1375 placed by Siddharth Malhotra: 1 item(s) | Total: ₹72.90
+[OVERSTOCK_CLEARANCE] Product #41: ₹38.27 -> ₹34.44
+[OVERSTOCK_CLEARANCE] Product #21: ₹43.59 -> ₹39.23
+[OVERSTOCK_CLEARANCE] Product #24: ₹225.99 -> ₹203.39
+[16:09:06] Order #1376 placed by Manish Kumar: 3 item(s) | Total: ₹480.45
+[OVERSTOCK_CLEARANCE] Product #70: ₹50.18 -> ₹45.16
+[16:09:07] Order #1377 placed by Tarun Prasad: 3 item(s) | Total: ₹777.84
+[OVERSTOCK_CLEARANCE] Product #46: ₹29.76 -> ₹26.78
+[OVERSTOCK_CLEARANCE] Product #39: ₹82.66 -> ₹74.39
+[OVERSTOCK_CLEARANCE] Product #78: ₹15.07 -> ₹13.56
+[16:09:08] Order #1378 placed by Priya Patel: 3 item(s) | Total: ₹155.07
+[OVERSTOCK_CLEARANCE] Product #49: ₹28.70 -> ₹25.83
+[16:09:09] Order #1379 placed by Aditya Joshi: 1 item(s) | Total: ₹51.66
+[OVERSTOCK_CLEARANCE] Product #33: ₹9.57 -> ₹8.61
+[16:09:10] Order #1380 placed by Kavya Nair: 2 item(s) | Total: ₹457.22
+[OVERSTOCK_CLEARANCE] Product #79: ₹6.46 -> ₹5.81
+[16:09:11] Order #1381 placed by Aarav Sharma: 1 item(s) | Total: ₹5.81
+[OVERSTOCK_CLEARANCE] Product #39: ₹74.39 -> ₹66.95
+[16:09:12] Order #1382 placed by Tarun Prasad: 1 item(s) | Total: ₹133.90
+[OVERSTOCK_CLEARANCE] Product #38: ₹14.35 -> ₹12.91
+[OVERSTOCK_CLEARANCE] Product #58: ₹94.48 -> ₹85.03
+[16:09:13] Order #1383 placed by Riya Kapoor: 2 item(s) | Total: ₹268.00
+[OVERSTOCK_CLEARANCE] Product #69: ₹31.77 -> ₹28.59
+[OVERSTOCK_CLEARANCE] Product #77: ₹6.98 -> ₹6.28
+[OVERSTOCK_CLEARANCE] Product #72: ₹18.90 -> ₹17.01
+[16:09:14] Order #1384 placed by Tarun Prasad: 3 item(s) | Total: ₹109.06
+[OVERSTOCK_CLEARANCE] Product #74: ₹31.89 -> ₹28.7
+[16:09:15] Order #1385 placed by Rahul Deshmukh: 1 item(s) | Total: ₹28.70
+[OVERSTOCK_CLEARANCE] Product #46: ₹26.78 -> ₹24.1
+[OVERSTOCK_CLEARANCE] Product #96: ₹21.62 -> ₹19.46
+[16:09:16] Order #1386 placed by Riya Kapoor: 2 item(s) | Total: ₹87.12
+[16:09:17] Order #1387 placed by Divya Rao: 2 item(s) | Total: ₹546.01
+[OVERSTOCK_CLEARANCE] Product #88: ₹64.95 -> ₹58.46
+[OVERSTOCK_CLEARANCE] Product #95: ₹40.10 -> ₹36.09
+[16:09:18] Order #1388 placed by Tarun Prasad: 2 item(s) | Total: ₹283.65
+[OVERSTOCK_CLEARANCE] Product #88: ₹58.46 -> ₹52.61
+[16:09:19] Order #1389 placed by Amitav Ghosh: 1 item(s) | Total: ₹52.61
+[OVERSTOCK_CLEARANCE] Product #72: ₹17.01 -> ₹15.31
+[16:09:20] Order #1390 placed by Ishita Saxena: 1 item(s) | Total: ₹15.31
+[OVERSTOCK_CLEARANCE] Product #71: ₹20.20 -> ₹18.18
+[OVERSTOCK_CLEARANCE] Product #96: ₹19.46 -> ₹17.51
+[16:09:21] Order #1391 placed by Amitav Ghosh: 3 item(s) | Total: ₹413.25
+[OVERSTOCK_CLEARANCE] Product #21: ₹39.23 -> ₹35.31
+[OVERSTOCK_CLEARANCE] Product #57: ₹40.94 -> ₹36.85
+[OVERSTOCK_CLEARANCE] Product #88: ₹52.61 -> ₹47.35
+[16:09:22] Order #1392 placed by Divya Rao: 3 item(s) | Total: ₹321.68
+[OVERSTOCK_CLEARANCE] Product #96: ₹17.51 -> ₹15.76
+[16:09:23] Order #1393 placed by Kavya Nair: 3 item(s) | Total: ₹557.62
+[OVERSTOCK_CLEARANCE] Product #39: ₹66.95 -> ₹60.26
+[OVERSTOCK_CLEARANCE] Product #24: ₹203.39 -> ₹183.05
+[16:09:24] Order #1394 placed by Rahul Deshmukh: 3 item(s) | Total: ₹713.63
+[OVERSTOCK_CLEARANCE] Product #19: ₹105.30 -> ₹94.77
+[OVERSTOCK_CLEARANCE] Product #26: ₹6.98 -> ₹6.28
+[16:09:25] Order #1395 placed by Neha Reddy: 3 item(s) | Total: ₹363.90
+[OVERSTOCK_CLEARANCE] Product #88: ₹47.35 -> ₹42.62
+[16:09:26] Order #1396 placed by Pooja Bhatia: 1 item(s) | Total: ₹42.62
+[OVERSTOCK_CLEARANCE] Product #41: ₹34.44 -> ₹31.0
+[OVERSTOCK_CLEARANCE] Product #64: ₹20.15 -> ₹18.13
+[16:09:27] Order #1397 placed by Riya Kapoor: 2 item(s) | Total: ₹85.39
+[OVERSTOCK_CLEARANCE] Product #93: ₹55.95 -> ₹50.36
+[16:09:28] Order #1398 placed by Aditya Joshi: 2 item(s) | Total: ₹232.61
+[OVERSTOCK_CLEARANCE] Product #35: ₹75.46 -> ₹67.91
+[OVERSTOCK_CLEARANCE] Product #36: ₹29.22 -> ₹26.3
+[OVERSTOCK_CLEARANCE] Product #43: ₹36.45 -> ₹32.81
+[16:09:29] Order #1399 placed by Varun Aggarwal: 3 item(s) | Total: ₹262.84
+[OVERSTOCK_CLEARANCE] Product #21: ₹35.31 -> ₹31.78
+[OVERSTOCK_CLEARANCE] Product #99: ₹50.22 -> ₹45.2
+[16:09:30] Order #1400 placed by Aarav Sharma: 3 item(s) | Total: ₹160.94
+[OVERSTOCK_CLEARANCE] Product #27: ₹18.60 -> ₹16.74
+[16:09:31] Order #1401 placed by Divya Rao: 1 item(s) | Total: ₹50.22
+[OVERSTOCK_CLEARANCE] Product #26: ₹6.28 -> ₹5.65
+[OVERSTOCK_CLEARANCE] Product #64: ₹18.13 -> ₹16.32
+[OVERSTOCK_CLEARANCE] Product #20: ₹69.35 -> ₹62.41
+[16:09:32] Order #1402 placed by Ananya Verma: 3 item(s) | Total: ₹122.67
+[OVERSTOCK_CLEARANCE] Product #9: ₹26.58 -> ₹23.92
+[16:09:33] Order #1403 placed by Amitav Ghosh: 3 item(s) | Total: ₹468.45
+[OVERSTOCK_CLEARANCE] Product #60: ₹29.22 -> ₹26.3
+[16:09:34] Order #1404 placed by Siddharth Malhotra: 1 item(s) | Total: ₹52.60
+[16:09:35] Order #1405 placed by Aarav Sharma: 1 item(s) | Total: ₹160.00
+[OVERSTOCK_CLEARANCE] Product #48: ₹13.56 -> ₹12.2
+[16:09:36] Order #1406 placed by Sneha Kulkarni: 2 item(s) | Total: ₹143.42
+[OVERSTOCK_CLEARANCE] Product #96: ₹15.76 -> ₹14.18
+[16:09:37] Order #1407 placed by Kavya Nair: 1 item(s) | Total: ₹42.54
+[OVERSTOCK_CLEARANCE] Product #62: ₹87.69 -> ₹78.92
+[16:09:38] Order #1408 placed by Sneha Kulkarni: 1 item(s) | Total: ₹78.92
+[OVERSTOCK_CLEARANCE] Product #45: ₹5.65 -> ₹5.09
+[OVERSTOCK_CLEARANCE] Product #88: ₹42.62 -> ₹38.36
+[16:09:39] Order #1409 placed by Ishita Saxena: 2 item(s) | Total: ₹125.26
+[16:09:40] Order #1410 placed by Kavya Nair: 1 item(s) | Total: ₹981.93
+[OVERSTOCK_CLEARANCE] Product #28: ₹18.60 -> ₹16.74
+[OVERSTOCK_CLEARANCE] Product #49: ₹25.83 -> ₹23.25
+[16:09:41] Order #1411 placed by Tarun Prasad: 2 item(s) | Total: ₹79.98
+[OVERSTOCK_CLEARANCE] Product #94: ₹30.14 -> ₹27.13
+[OVERSTOCK_CLEARANCE] Product #67: ₹236.93 -> ₹213.24
+[OVERSTOCK_CLEARANCE] Product #39: ₹60.26 -> ₹54.23
+[16:09:42] Order #1412 placed by Siddharth Malhotra: 3 item(s) | Total: ₹562.07
+[OVERSTOCK_CLEARANCE] Product #33: ₹8.61 -> ₹7.75
+[16:09:43] Order #1413 placed by Aditya Joshi: 1 item(s) | Total: ₹23.25
+[OVERSTOCK_CLEARANCE] Product #77: ₹6.28 -> ₹5.65
+[OVERSTOCK_CLEARANCE] Product #66: ₹37.96 -> ₹34.16
+[16:09:44] Order #1414 placed by Manish Kumar: 3 item(s) | Total: ₹238.34
+[OVERSTOCK_CLEARANCE] Product #15: ₹62.00 -> ₹55.8
+[16:09:45] Order #1415 placed by Pooja Bhatia: 1 item(s) | Total: ₹111.60
+[OVERSTOCK_CLEARANCE] Product #77: ₹5.65 -> ₹5.09
+[16:09:46] Order #1416 placed by Varun Aggarwal: 1 item(s) | Total: ₹5.09
+[OVERSTOCK_CLEARANCE] Product #60: ₹26.30 -> ₹23.67
+[OVERSTOCK_CLEARANCE] Product #67: ₹213.24 -> ₹191.92
+[OVERSTOCK_CLEARANCE] Product #36: ₹26.30 -> ₹23.67
+[16:09:47] Order #1417 placed by Divya Rao: 3 item(s) | Total: ₹286.60
+[OVERSTOCK_CLEARANCE] Product #49: ₹23.25 -> ₹20.93
+[16:09:48] Order #1418 placed by Priya Patel: 1 item(s) | Total: ₹20.93
+[OVERSTOCK_CLEARANCE] Product #24: ₹183.05 -> ₹164.75
+[OVERSTOCK_CLEARANCE] Product #73: ₹16.27 -> ₹14.64
+[OVERSTOCK_CLEARANCE] Product #60: ₹23.67 -> ₹21.3
+[16:09:49] Order #1419 placed by Aditya Joshi: 3 item(s) | Total: ₹580.77
+[OVERSTOCK_CLEARANCE] Product #37: ₹29.27 -> ₹26.34
+[OVERSTOCK_CLEARANCE] Product #49: ₹20.93 -> ₹18.84
+[16:09:51] Order #1420 placed by Sneha Kulkarni: 2 item(s) | Total: ₹135.54
+[OVERSTOCK_CLEARANCE] Product #19: ₹94.77 -> ₹85.29
+[16:09:52] Order #1421 placed by Rohan Gupta: 3 item(s) | Total: ₹436.80
+[16:09:53] Order #1422 placed by Tarun Prasad: 1 item(s) | Total: ₹349.92
+[OVERSTOCK_CLEARANCE] Product #56: ₹178.60 -> ₹160.74
+[OVERSTOCK_CLEARANCE] Product #72: ₹15.31 -> ₹13.78
+[OVERSTOCK_CLEARANCE] Product #38: ₹12.91 -> ₹11.62
+[16:09:54] Order #1423 placed by Vikram Singh: 3 item(s) | Total: ₹533.02
+[OVERSTOCK_CLEARANCE] Product #47: ₹25.51 -> ₹22.96
+[16:09:55] Order #1424 placed by Amitav Ghosh: 1 item(s) | Total: ₹68.88
+[OVERSTOCK_CLEARANCE] Product #72: ₹13.78 -> ₹12.4
+[16:09:56] Order #1425 placed by Riya Kapoor: 1 item(s) | Total: ₹12.40
+[OVERSTOCK_CLEARANCE] Product #34: ₹15.94 -> ₹14.35
+[OVERSTOCK_CLEARANCE] Product #67: ₹191.92 -> ₹172.73
+[16:09:57] Order #1426 placed by Tarun Prasad: 2 item(s) | Total: ₹359.81
+[OVERSTOCK_CLEARANCE] Product #57: ₹36.85 -> ₹33.16
+[HIGH_DEMAND_SURGE] Product #13: ₹79.35 -> ₹91.25
+[RESTOCK ALERT] Product #13 was low (2). Auto replenished +20 units.
+[16:09:58] Order #1427 placed by Sneha Kulkarni: 2 item(s) | Total: ₹340.07
+[16:09:59] Order #1428 placed by Aditya Joshi: 2 item(s) | Total: ₹1,135.02
+[16:10:00] Order #1429 placed by Rahul Deshmukh: 1 item(s) | Total: ₹196.83
+[OVERSTOCK_CLEARANCE] Product #95: ₹36.09 -> ₹32.48
+[OVERSTOCK_CLEARANCE] Product #53: ₹29.22 -> ₹26.3
+[OVERSTOCK_CLEARANCE] Product #5: ₹40.90 -> ₹36.81
+[16:10:01] Order #1430 placed by Riya Kapoor: 3 item(s) | Total: ₹128.07
+[OVERSTOCK_CLEARANCE] Product #57: ₹33.16 -> ₹29.84
+[16:10:02] Order #1431 placed by Sneha Kulkarni: 3 item(s) | Total: ₹172.67
+[OVERSTOCK_CLEARANCE] Product #94: ₹27.13 -> ₹24.42
+[16:10:03] Order #1432 placed by Amitav Ghosh: 1 item(s) | Total: ₹24.42
+[OVERSTOCK_CLEARANCE] Product #6: ₹12.72 -> ₹11.45
+[OVERSTOCK_CLEARANCE] Product #90: ₹100.97 -> ₹90.87
+[OVERSTOCK_CLEARANCE] Product #28: ₹16.74 -> ₹15.07
+[16:10:04] Order #1433 placed by Amitav Ghosh: 3 item(s) | Total: ₹325.65
+[16:10:05] Order #1434 placed by Divya Rao: 3 item(s) | Total: ₹1,131.55
+[OVERSTOCK_CLEARANCE] Product #27: ₹16.74 -> ₹15.07
+[16:10:06] Order #1435 placed by Sneha Kulkarni: 1 item(s) | Total: ₹15.07
+[OVERSTOCK_CLEARANCE] Product #34: ₹14.35 -> ₹12.91
+[16:10:07] Order #1436 placed by Tarun Prasad: 1 item(s) | Total: ₹25.82
+[OVERSTOCK_CLEARANCE] Product #40: ₹19.13 -> ₹17.22
+[16:10:08] Order #1437 placed by Rahul Deshmukh: 1 item(s) | Total: ₹17.22
+[OVERSTOCK_CLEARANCE] Product #77: ₹5.09 -> ₹4.58
+[16:10:09] Order #1438 placed by Manish Kumar: 1 item(s) | Total: ₹4.58
+[16:10:10] Order #1439 placed by Neha Reddy: 2 item(s) | Total: ₹203.54
+[OVERSTOCK_CLEARANCE] Product #91: ₹156.74 -> ₹141.07
+[16:10:11] Order #1440 placed by Siddharth Malhotra: 2 item(s) | Total: ₹642.75
+[OVERSTOCK_CLEARANCE] Product #88: ₹38.36 -> ₹34.52
+[16:10:12] Order #1441 placed by Rahul Deshmukh: 2 item(s) | Total: ₹300.39
+[OVERSTOCK_CLEARANCE] Product #58: ₹85.03 -> ₹76.53
+[16:10:13] Order #1442 placed by Tarun Prasad: 3 item(s) | Total: ₹495.31
+[OVERSTOCK_CLEARANCE] Product #87: ₹38.27 -> ₹34.44
+[OVERSTOCK_CLEARANCE] Product #27: ₹15.07 -> ₹13.56
+[16:10:14] Order #1443 placed by Vikram Singh: 2 item(s) | Total: ₹116.88
+[OVERSTOCK_CLEARANCE] Product #17: ₹17.22 -> ₹15.5
+[16:10:15] Order #1444 placed by Kavya Nair: 3 item(s) | Total: ₹658.71
+[OVERSTOCK_CLEARANCE] Product #43: ₹32.81 -> ₹29.53
+[OVERSTOCK_CLEARANCE] Product #99: ₹45.20 -> ₹40.68
+[16:10:16] Order #1445 placed by Siddharth Malhotra: 3 item(s) | Total: ₹249.95
+[OVERSTOCK_CLEARANCE] Product #59: ₹18.37 -> ₹16.53
+[16:10:17] Order #1446 placed by Amitav Ghosh: 1 item(s) | Total: ₹33.06
+[OVERSTOCK_CLEARANCE] Product #77: ₹4.58 -> ₹4.12
+[OVERSTOCK_CLEARANCE] Product #72: ₹12.40 -> ₹11.16
+[16:10:18] Order #1447 placed by Vikram Singh: 2 item(s) | Total: ₹23.52
+[OVERSTOCK_CLEARANCE] Product #5: ₹36.81 -> ₹33.13
+[OVERSTOCK_CLEARANCE] Product #65: ₹10.74 -> ₹9.67
+[16:10:19] Order #1448 placed by Ishita Saxena: 2 item(s) | Total: ₹42.80
+[OVERSTOCK_CLEARANCE] Product #81: ₹13.95 -> ₹12.55
+[OVERSTOCK_CLEARANCE] Product #94: ₹24.42 -> ₹21.98
+[16:10:20] Order #1449 placed by Pooja Bhatia: 3 item(s) | Total: ₹736.23
+[OVERSTOCK_CLEARANCE] Product #35: ₹67.91 -> ₹61.12
+[16:10:21] Order #1450 placed by Rahul Deshmukh: 1 item(s) | Total: ₹183.36
+[OVERSTOCK_CLEARANCE] Product #9: ₹23.92 -> ₹21.53
+[OVERSTOCK_CLEARANCE] Product #33: ₹7.75 -> ₹6.98
+[16:10:22] Order #1451 placed by Rahul Deshmukh: 3 item(s) | Total: ₹596.45
+[OVERSTOCK_CLEARANCE] Product #66: ₹34.16 -> ₹30.74
+[16:10:23] Order #1452 placed by Rohan Gupta: 3 item(s) | Total: ₹245.17
+[OVERSTOCK_CLEARANCE] Product #45: ₹5.09 -> ₹4.58
+[16:10:24] Order #1453 placed by Ananya Verma: 2 item(s) | Total: ₹84.58
+[OVERSTOCK_CLEARANCE] Product #36: ₹23.67 -> ₹21.3
+[16:10:25] Order #1454 placed by Aarav Sharma: 1 item(s) | Total: ₹63.90
+[OVERSTOCK_CLEARANCE] Product #56: ₹160.74 -> ₹144.67
+[OVERSTOCK_CLEARANCE] Product #57: ₹29.84 -> ₹26.86
+[16:10:26] Order #1455 placed by Riya Kapoor: 3 item(s) | Total: ₹413.88
+[OVERSTOCK_CLEARANCE] Product #87: ₹34.44 -> ₹31.0
+[OVERSTOCK_CLEARANCE] Product #17: ₹15.50 -> ₹13.95
+[OVERSTOCK_CLEARANCE] Product #9: ₹21.53 -> ₹19.38
+[16:10:27] Order #1456 placed by Karan Mehta: 3 item(s) | Total: ₹111.61
+[OVERSTOCK_CLEARANCE] Product #36: ₹21.30 -> ₹19.17
+[16:10:28] Order #1457 placed by Pooja Bhatia: 2 item(s) | Total: ₹38.55
+[OVERSTOCK_CLEARANCE] Product #34: ₹12.91 -> ₹11.62
+[16:10:29] Order #1458 placed by Aarav Sharma: 2 item(s) | Total: ₹102.87
+[OVERSTOCK_CLEARANCE] Product #39: ₹54.23 -> ₹48.81
+[16:10:30] Order #1459 placed by Rahul Deshmukh: 2 item(s) | Total: ₹378.81
+[OVERSTOCK_CLEARANCE] Product #74: ₹28.70 -> ₹25.83
+[16:10:31] Order #1460 placed by Vikram Singh: 2 item(s) | Total: ₹1,033.59
+[OVERSTOCK_CLEARANCE] Product #31: ₹7.75 -> ₹6.98
+[16:10:32] Order #1461 placed by Manish Kumar: 3 item(s) | Total: ₹353.08
+[OVERSTOCK_CLEARANCE] Product #31: ₹6.98 -> ₹6.28
+[16:10:33] Order #1462 placed by Rohan Gupta: 2 item(s) | Total: ₹187.52
+[16:10:34] Order #1463 placed by Amitav Ghosh: 1 item(s) | Total: ₹87.92
+[OVERSTOCK_CLEARANCE] Product #40: ₹17.22 -> ₹15.5
+[OVERSTOCK_CLEARANCE] Product #82: ₹14.88 -> ₹13.39
+[16:10:36] Order #1464 placed by Neha Reddy: 3 item(s) | Total: ₹193.36
+[OVERSTOCK_CLEARANCE] Product #57: ₹26.86 -> ₹24.17
+[16:10:37] Order #1465 placed by Varun Aggarwal: 1 item(s) | Total: ₹24.17
+[OVERSTOCK_CLEARANCE] Product #34: ₹11.62 -> ₹10.46
+[OVERSTOCK_CLEARANCE] Product #28: ₹15.07 -> ₹13.56
+[16:10:38] Order #1466 placed by Aarav Sharma: 2 item(s) | Total: ₹44.94
+[OVERSTOCK_CLEARANCE] Product #94: ₹21.98 -> ₹19.78
+[OVERSTOCK_CLEARANCE] Product #19: ₹85.29 -> ₹76.76
+[OVERSTOCK_CLEARANCE] Product #59: ₹16.53 -> ₹14.88
+[16:10:39] Order #1467 placed by Ananya Verma: 3 item(s) | Total: ₹242.62
+[OVERSTOCK_CLEARANCE] Product #6: ₹11.45 -> ₹10.3
+[16:10:40] Order #1468 placed by Amitav Ghosh: 2 item(s) | Total: ₹460.60
+[OVERSTOCK_CLEARANCE] Product #86: ₹48.64 -> ₹43.78
+[16:10:41] Order #1469 placed by Priya Patel: 1 item(s) | Total: ₹131.34
+[OVERSTOCK_CLEARANCE] Product #64: ₹16.32 -> ₹14.69
+[16:10:42] Order #1470 placed by Varun Aggarwal: 3 item(s) | Total: ₹379.01
+[OVERSTOCK_CLEARANCE] Product #42: ₹24.30 -> ₹21.87
+[16:10:43] Order #1471 placed by Karan Mehta: 2 item(s) | Total: ₹117.93
+[OVERSTOCK_CLEARANCE] Product #97: ₹91.85 -> ₹82.66
+[OVERSTOCK_CLEARANCE] Product #6: ₹10.30 -> ₹9.27
+[OVERSTOCK_CLEARANCE] Product #48: ₹12.20 -> ₹10.98
+[16:10:44] Order #1472 placed by Priya Patel: 3 item(s) | Total: ₹112.18
+[OVERSTOCK_CLEARANCE] Product #65: ₹9.67 -> ₹8.7
+[OVERSTOCK_CLEARANCE] Product #99: ₹40.68 -> ₹36.61
+[16:10:45] Order #1473 placed by Siddharth Malhotra: 2 item(s) | Total: ₹118.53
+[OVERSTOCK_CLEARANCE] Product #70: ₹45.16 -> ₹40.64
+[16:10:46] Order #1474 placed by Riya Kapoor: 1 item(s) | Total: ₹121.92
+[OVERSTOCK_CLEARANCE] Product #11: ₹36.08 -> ₹32.47
+[16:10:47] Order #1475 placed by Siddharth Malhotra: 2 item(s) | Total: ₹177.41
+[OVERSTOCK_CLEARANCE] Product #77: ₹4.12 -> ₹3.71
+[OVERSTOCK_CLEARANCE] Product #15: ₹55.80 -> ₹50.22
+[16:10:48] Order #1476 placed by Neha Reddy: 3 item(s) | Total: ₹183.87
+[OVERSTOCK_CLEARANCE] Product #37: ₹26.34 -> ₹23.71
+[OVERSTOCK_CLEARANCE] Product #53: ₹26.30 -> ₹23.67
+[16:10:49] Order #1477 placed by Manish Kumar: 3 item(s) | Total: ₹191.61
+[OVERSTOCK_CLEARANCE] Product #76: ₹16.41 -> ₹14.77
+[16:10:50] Order #1478 placed by Aarav Sharma: 1 item(s) | Total: ₹14.77
+[16:10:51] Order #1479 placed by Sneha Kulkarni: 1 item(s) | Total: ₹52.32
+[OVERSTOCK_CLEARANCE] Product #65: ₹8.70 -> ₹7.83
+[16:10:52] Order #1480 placed by Rohan Gupta: 3 item(s) | Total: ₹366.85
+[OVERSTOCK_CLEARANCE] Product #64: ₹14.69 -> ₹13.22
+[OVERSTOCK_CLEARANCE] Product #7: ₹7.98 -> ₹7.18
+[16:10:53] Order #1481 placed by Pooja Bhatia: 3 item(s) | Total: ₹581.20
+[16:10:54] Order #1482 placed by Ananya Verma: 1 item(s) | Total: ₹981.93
+[OVERSTOCK_CLEARANCE] Product #28: ₹13.56 -> ₹12.2
+[16:10:55] Order #1483 placed by Vikram Singh: 1 item(s) | Total: ₹24.40
+[OVERSTOCK_CLEARANCE] Product #18: ₹15.50 -> ₹13.95
+[OVERSTOCK_CLEARANCE] Product #79: ₹5.81 -> ₹5.23
+[16:10:56] Order #1484 placed by Ananya Verma: 2 item(s) | Total: ₹19.18
+[OVERSTOCK_CLEARANCE] Product #24: ₹164.75 -> ₹148.28
+[16:10:57] Order #1485 placed by Manish Kumar: 2 item(s) | Total: ₹449.65
+[OVERSTOCK_CLEARANCE] Product #23: ₹88.49 -> ₹79.64
+[OVERSTOCK_CLEARANCE] Product #9: ₹19.38 -> ₹17.44
+[16:10:58] Order #1486 placed by Sneha Kulkarni: 3 item(s) | Total: ₹454.16
+[16:10:59] Order #1487 placed by Priya Patel: 1 item(s) | Total: ₹52.32
+[OVERSTOCK_CLEARANCE] Product #46: ₹24.10 -> ₹21.69
+[16:11:00] Order #1488 placed by Ananya Verma: 1 item(s) | Total: ₹43.38
+[16:11:01] Order #1489 placed by Rohan Gupta: 1 item(s) | Total: ₹282.14
+[16:11:02] Order #1490 placed by Karan Mehta: 2 item(s) | Total: ₹323.85
+[OVERSTOCK_CLEARANCE] Product #9: ₹17.44 -> ₹15.7
+[16:11:03] Order #1491 placed by Pooja Bhatia: 3 item(s) | Total: ₹298.11
+[OVERSTOCK_CLEARANCE] Product #28: ₹12.20 -> ₹10.98
+[16:11:04] Order #1492 placed by Ananya Verma: 2 item(s) | Total: ₹192.72
+[OVERSTOCK_CLEARANCE] Product #66: ₹30.74 -> ₹27.67
+[OVERSTOCK_CLEARANCE] Product #48: ₹10.98 -> ₹9.88
+[16:11:05] Order #1493 placed by Tarun Prasad: 2 item(s) | Total: ₹84.98
+[OVERSTOCK_CLEARANCE] Product #45: ₹4.58 -> ₹4.12
+[OVERSTOCK_CLEARANCE] Product #60: ₹21.30 -> ₹19.17
+[16:11:06] Order #1494 placed by Varun Aggarwal: 3 item(s) | Total: ₹252.37
+[OVERSTOCK_CLEARANCE] Product #47: ₹22.96 -> ₹20.66
+[OVERSTOCK_CLEARANCE] Product #73: ₹14.64 -> ₹13.18
+[16:11:07] Order #1495 placed by Neha Reddy: 2 item(s) | Total: ₹33.84
+[16:11:08] Order #1496 placed by Divya Rao: 1 item(s) | Total: ₹100.72
+[OVERSTOCK_CLEARANCE] Product #100: ₹45.16 -> ₹40.64
+[16:11:09] Order #1497 placed by Divya Rao: 1 item(s) | Total: ₹81.28
+[OVERSTOCK_CLEARANCE] Product #82: ₹13.39 -> ₹12.05
+[16:11:10] Order #1498 placed by Karan Mehta: 3 item(s) | Total: ₹220.89
+[16:11:11] Order #1499 placed by Sneha Kulkarni: 1 item(s) | Total: ₹260.00
+[OVERSTOCK_CLEARANCE] Product #33: ₹6.98 -> ₹6.28
+[16:11:12] Order #1500 placed by Riya Kapoor: 3 item(s) | Total: ₹803.90
+[OVERSTOCK_CLEARANCE] Product #73: ₹13.18 -> ₹11.86
+[OVERSTOCK_CLEARANCE] Product #9: ₹15.70 -> ₹14.13
+[16:11:13] Order #1501 placed by Siddharth Malhotra: 2 item(s) | Total: ₹54.25
+[16:11:14] Order #1502 placed by Priya Patel: 1 item(s) | Total: ₹80.00
+[OVERSTOCK_CLEARANCE] Product #62: ₹78.92 -> ₹71.03
+[OVERSTOCK_CLEARANCE] Product #76: ₹14.77 -> ₹13.29
+[16:11:15] Order #1503 placed by Manish Kumar: 3 item(s) | Total: ₹366.46
+[OVERSTOCK_CLEARANCE] Product #10: ₹20.39 -> ₹18.35
+[OVERSTOCK_CLEARANCE] Product #22: ₹42.62 -> ₹38.36
+[16:11:16] Order #1504 placed by Priya Patel: 2 item(s) | Total: ₹95.07
+[OVERSTOCK_CLEARANCE] Product #87: ₹31.00 -> ₹27.9
+[16:11:18] Order #1505 placed by Neha Reddy: 2 item(s) | Total: ₹141.84
+[OVERSTOCK_CLEARANCE] Product #72: ₹11.16 -> ₹10.04
+[OVERSTOCK_CLEARANCE] Product #15: ₹50.22 -> ₹45.2
+[16:11:19] Order #1506 placed by Aditya Joshi: 3 item(s) | Total: ₹361.84
+[16:11:20] Order #1507 placed by Vikram Singh: 2 item(s) | Total: ₹398.70
+[OVERSTOCK_CLEARANCE] Product #81: ₹12.55 -> ₹11.3
+[16:11:21] Order #1508 placed by Karan Mehta: 3 item(s) | Total: ₹515.70
+[OVERSTOCK_CLEARANCE] Product #2: ₹11.85 -> ₹10.66
+[16:11:22] Order #1509 placed by Siddharth Malhotra: 1 item(s) | Total: ₹31.98
+[OVERSTOCK_CLEARANCE] Product #58: ₹76.53 -> ₹68.88
+[16:11:23] Order #1510 placed by Divya Rao: 2 item(s) | Total: ₹171.66
+[OVERSTOCK_CLEARANCE] Product #1: ₹18.37 -> ₹16.53
+[OVERSTOCK_CLEARANCE] Product #10: ₹18.35 -> ₹16.52
+[OVERSTOCK_CLEARANCE] Product #65: ₹7.83 -> ₹7.05
+[16:11:24] Order #1511 placed by Amitav Ghosh: 3 item(s) | Total: ₹56.63
+[OVERSTOCK_CLEARANCE] Product #38: ₹11.62 -> ₹10.46
+[16:11:25] Order #1512 placed by Aditya Joshi: 1 item(s) | Total: ₹20.92
+[OVERSTOCK_CLEARANCE] Product #87: ₹27.90 -> ₹25.11
+[OVERSTOCK_CLEARANCE] Product #43: ₹29.53 -> ₹26.58
+[16:11:26] Order #1513 placed by Ananya Verma: 2 item(s) | Total: ₹103.38
+[OVERSTOCK_CLEARANCE] Product #94: ₹19.78 -> ₹17.8
+[OVERSTOCK_CLEARANCE] Product #10: ₹16.52 -> ₹14.87
+[16:11:27] Order #1514 placed by Ishita Saxena: 2 item(s) | Total: ₹80.21
+[OVERSTOCK_CLEARANCE] Product #62: ₹71.03 -> ₹63.93
+[16:11:28] Order #1515 placed by Siddharth Malhotra: 1 item(s) | Total: ₹191.79
+[OVERSTOCK_CLEARANCE] Product #47: ₹20.66 -> ₹18.59
+[16:11:29] Order #1516 placed by Aarav Sharma: 2 item(s) | Total: ₹177.27
+[16:11:30] Order #1517 placed by Priya Patel: 2 item(s) | Total: ₹371.79
+[16:11:31] Order #1518 placed by Siddharth Malhotra: 1 item(s) | Total: ₹223.17
+[OVERSTOCK_CLEARANCE] Product #2: ₹10.66 -> ₹9.59
+[16:11:32] Order #1519 placed by Riya Kapoor: 3 item(s) | Total: ₹274.29
+[OVERSTOCK_CLEARANCE] Product #88: ₹34.52 -> ₹31.07
+[OVERSTOCK_CLEARANCE] Product #41: ₹31.00 -> ₹27.9
+[16:11:33] Order #1520 placed by Rahul Deshmukh: 2 item(s) | Total: ₹114.77
+[OVERSTOCK_CLEARANCE] Product #70: ₹40.64 -> ₹36.58
+[16:11:34] Order #1521 placed by Varun Aggarwal: 1 item(s) | Total: ₹36.58
+[16:11:35] Order #1522 placed by Priya Patel: 1 item(s) | Total: ₹540.00
+[OVERSTOCK_CLEARANCE] Product #69: ₹28.59 -> ₹25.73
+[OVERSTOCK_CLEARANCE] Product #58: ₹68.88 -> ₹61.99
+[16:11:36] Order #1523 placed by Rohan Gupta: 3 item(s) | Total: ₹269.97
+[HIGH_DEMAND_SURGE] Product #4: ₹327.31 -> ₹376.41
+[16:11:37] Order #1524 placed by Ishita Saxena: 3 item(s) | Total: ₹1,458.95
+[OVERSTOCK_CLEARANCE] Product #41: ₹27.90 -> ₹25.11
+[16:11:38] Order #1525 placed by Kavya Nair: 1 item(s) | Total: ₹25.11
+[OVERSTOCK_CLEARANCE] Product #70: ₹36.58 -> ₹32.92
+[16:11:39] Order #1526 placed by Aarav Sharma: 3 item(s) | Total: ₹663.90
+[HIGH_DEMAND_SURGE] Product #4: ₹376.41 -> ₹432.87
+[RESTOCK ALERT] Product #4 was low (4). Auto replenished +20 units.
+[OVERSTOCK_CLEARANCE] Product #70: ₹32.92 -> ₹29.63
+[OVERSTOCK_CLEARANCE] Product #78: ₹13.56 -> ₹12.2
+[16:11:40] Order #1527 placed by Karan Mehta: 3 item(s) | Total: ₹919.77
+[OVERSTOCK_CLEARANCE] Product #16: ₹15.50 -> ₹13.95
+[16:11:41] Order #1528 placed by Rahul Deshmukh: 1 item(s) | Total: ₹27.90
+[OVERSTOCK_CLEARANCE] Product #60: ₹19.17 -> ₹17.25
+[16:11:42] Order #1529 placed by Kavya Nair: 1 item(s) | Total: ₹34.50
+[OVERSTOCK_CLEARANCE] Product #65: ₹7.05 -> ₹6.34
+[16:11:43] Order #1530 placed by Aarav Sharma: 1 item(s) | Total: ₹6.34
+[OVERSTOCK_CLEARANCE] Product #38: ₹10.46 -> ₹9.41
+[OVERSTOCK_CLEARANCE] Product #65: ₹6.34 -> ₹5.71
+[16:11:44] Order #1531 placed by Sneha Kulkarni: 2 item(s) | Total: ₹33.94
+[OVERSTOCK_CLEARANCE] Product #43: ₹26.58 -> ₹23.92
+[OVERSTOCK_CLEARANCE] Product #95: ₹32.48 -> ₹29.23
+[16:11:45] Order #1532 placed by Vikram Singh: 3 item(s) | Total: ₹175.38
+[OVERSTOCK_CLEARANCE] Product #47: ₹18.59 -> ₹16.73
+[16:11:46] Order #1533 placed by Pooja Bhatia: 1 item(s) | Total: ₹33.46
+[OVERSTOCK_CLEARANCE] Product #62: ₹63.93 -> ₹57.54
+[16:11:47] Order #1534 placed by Riya Kapoor: 3 item(s) | Total: ₹335.58
+[OVERSTOCK_CLEARANCE] Product #33: ₹6.28 -> ₹5.65
+[16:11:48] Order #1535 placed by Vikram Singh: 3 item(s) | Total: ₹476.52
+[OVERSTOCK_CLEARANCE] Product #87: ₹25.11 -> ₹22.6
+[OVERSTOCK_CLEARANCE] Product #72: ₹10.04 -> ₹9.04
+[16:11:49] Order #1536 placed by Karan Mehta: 2 item(s) | Total: ₹40.68
+[OVERSTOCK_CLEARANCE] Product #6: ₹9.27 -> ₹8.34
+[16:11:50] Order #1537 placed by Manish Kumar: 3 item(s) | Total: ₹154.83
+[OVERSTOCK_CLEARANCE] Product #60: ₹17.25 -> ₹15.53
+[OVERSTOCK_CLEARANCE] Product #41: ₹25.11 -> ₹22.6
+[16:11:51] Order #1538 placed by Kavya Nair: 3 item(s) | Total: ₹314.96
+[OVERSTOCK_CLEARANCE] Product #18: ₹13.95 -> ₹12.55
+[OVERSTOCK_CLEARANCE] Product #87: ₹22.60 -> ₹20.34
+[OVERSTOCK_CLEARANCE] Product #38: ₹9.41 -> ₹8.47
+[16:11:52] Order #1539 placed by Amitav Ghosh: 3 item(s) | Total: ₹111.53
+[OVERSTOCK_CLEARANCE] Product #7: ₹7.18 -> ₹6.46
+[OVERSTOCK_CLEARANCE] Product #37: ₹23.71 -> ₹21.34
+[16:11:53] Order #1540 placed by Tarun Prasad: 2 item(s) | Total: ₹49.14
+[16:11:54] Order #1541 placed by Aditya Joshi: 2 item(s) | Total: ₹205.83
+[OVERSTOCK_CLEARANCE] Product #23: ₹79.64 -> ₹71.68
+[OVERSTOCK_CLEARANCE] Product #95: ₹29.23 -> ₹26.31
+[16:11:55] Order #1542 placed by Manish Kumar: 2 item(s) | Total: ₹97.99
+[OVERSTOCK_CLEARANCE] Product #42: ₹21.87 -> ₹19.68
+[16:11:56] Order #1543 placed by Priya Patel: 3 item(s) | Total: ₹259.68
+[OVERSTOCK_CLEARANCE] Product #39: ₹48.81 -> ₹43.93
+[16:11:57] Order #1544 placed by Siddharth Malhotra: 3 item(s) | Total: ₹736.80
+[OVERSTOCK_CLEARANCE] Product #62: ₹57.54 -> ₹51.79
+[OVERSTOCK_CLEARANCE] Product #37: ₹21.34 -> ₹19.21
+[16:11:58] Order #1545 placed by Ishita Saxena: 2 item(s) | Total: ₹174.58
+[OVERSTOCK_CLEARANCE] Product #45: ₹4.12 -> ₹3.71
+[OVERSTOCK_CLEARANCE] Product #33: ₹5.65 -> ₹5.09
+[16:11:59] Order #1546 placed by Sneha Kulkarni: 3 item(s) | Total: ₹232.51
+[OVERSTOCK_CLEARANCE] Product #100: ₹40.64 -> ₹36.58
+[OVERSTOCK_CLEARANCE] Product #88: ₹31.07 -> ₹27.96
+[16:12:00] Order #1547 placed by Manish Kumar: 3 item(s) | Total: ₹201.00
+[OVERSTOCK_CLEARANCE] Product #65: ₹5.71 -> ₹5.14
+[16:12:01] Order #1548 placed by Ishita Saxena: 2 item(s) | Total: ₹212.25
+[OVERSTOCK_CLEARANCE] Product #2: ₹9.59 -> ₹8.63
+[OVERSTOCK_CLEARANCE] Product #59: ₹14.88 -> ₹13.39
+[16:12:02] Order #1549 placed by Pooja Bhatia: 3 item(s) | Total: ₹244.66
+[OVERSTOCK_CLEARANCE] Product #42: ₹19.68 -> ₹17.71
+[OVERSTOCK_CLEARANCE] Product #53: ₹23.67 -> ₹21.3
+[OVERSTOCK_CLEARANCE] Product #10: ₹14.87 -> ₹13.38
+[16:12:03] Order #1550 placed by Karan Mehta: 3 item(s) | Total: ₹109.11
+[16:12:05] Order #1551 placed by Karan Mehta: 1 item(s) | Total: ₹345.46
+[OVERSTOCK_CLEARANCE] Product #1: ₹16.53 -> ₹14.88
+[OVERSTOCK_CLEARANCE] Product #49: ₹18.84 -> ₹16.96
+[16:12:06] Order #1552 placed by Riya Kapoor: 3 item(s) | Total: ₹588.56
+[16:12:07] Order #1553 placed by Rohan Gupta: 2 item(s) | Total: ₹420.87
+[OVERSTOCK_CLEARANCE] Product #73: ₹11.86 -> ₹10.67
+[16:12:08] Order #1554 placed by Varun Aggarwal: 2 item(s) | Total: ₹119.93
+[OVERSTOCK_CLEARANCE] Product #26: ₹5.65 -> ₹5.09
+[16:12:09] Order #1555 placed by Ishita Saxena: 1 item(s) | Total: ₹5.09
+[OVERSTOCK_CLEARANCE] Product #3: ₹28.70 -> ₹25.83
+[16:12:10] Order #1556 placed by Riya Kapoor: 3 item(s) | Total: ₹564.75
+[16:12:11] Order #1557 placed by Ananya Verma: 1 item(s) | Total: ₹444.84
+[16:12:12] Order #1558 placed by Sneha Kulkarni: 1 item(s) | Total: ₹160.00
+[OVERSTOCK_CLEARANCE] Product #100: ₹36.58 -> ₹32.92
+[16:12:13] Order #1559 placed by Neha Reddy: 2 item(s) | Total: ₹444.22
+[OVERSTOCK_CLEARANCE] Product #21: ₹31.78 -> ₹28.6
+[16:12:14] Order #1560 placed by Aditya Joshi: 1 item(s) | Total: ₹57.20
+[OVERSTOCK_CLEARANCE] Product #88: ₹27.96 -> ₹25.16
+[OVERSTOCK_CLEARANCE] Product #2: ₹8.63 -> ₹7.77
+[16:12:15] Order #1561 placed by Kavya Nair: 2 item(s) | Total: ₹91.02
+[OVERSTOCK_CLEARANCE] Product #1: ₹14.88 -> ₹13.39
+[HIGH_DEMAND_SURGE] Product #55: ₹88.57 -> ₹101.86
+[16:12:16] Order #1562 placed by Ishita Saxena: 3 item(s) | Total: ₹467.99
+[HIGH_DEMAND_SURGE] Product #55: ₹101.86 -> ₹117.14
+[RESTOCK ALERT] Product #55 was low (4). Auto replenished +20 units.
+[16:12:17] Order #1563 placed by Karan Mehta: 3 item(s) | Total: ₹361.25
+[OVERSTOCK_CLEARANCE] Product #36: ₹19.17 -> ₹17.25
+[OVERSTOCK_CLEARANCE] Product #70: ₹29.63 -> ₹26.67
+[16:12:18] Order #1564 placed by Aarav Sharma: 2 item(s) | Total: ₹70.59
+[OVERSTOCK_CLEARANCE] Product #1: ₹13.39 -> ₹12.05
+[16:12:19] Order #1565 placed by Neha Reddy: 1 item(s) | Total: ₹12.05
+[OVERSTOCK_CLEARANCE] Product #7: ₹6.46 -> ₹5.81
+[16:12:20] Order #1566 placed by Ishita Saxena: 3 item(s) | Total: ₹335.73
+[OVERSTOCK_CLEARANCE] Product #96: ₹14.18 -> ₹12.76
+[OVERSTOCK_CLEARANCE] Product #95: ₹26.31 -> ₹23.68
+[16:12:21] Order #1567 placed by Karan Mehta: 3 item(s) | Total: ₹105.01
+[16:12:22] Order #1568 placed by Ananya Verma: 2 item(s) | Total: ₹131.30
+[OVERSTOCK_CLEARANCE] Product #43: ₹23.92 -> ₹21.53
+[16:12:23] Order #1569 placed by Priya Patel: 1 item(s) | Total: ₹43.06
+[OVERSTOCK_CLEARANCE] Product #40: ₹15.50 -> ₹13.95
+[16:12:24] Order #1570 placed by Neha Reddy: 1 item(s) | Total: ₹41.85
+[OVERSTOCK_CLEARANCE] Product #40: ₹13.95 -> ₹12.55
+[16:12:25] Order #1571 placed by Kavya Nair: 1 item(s) | Total: ₹25.10
+[16:12:26] Order #1572 placed by Siddharth Malhotra: 1 item(s) | Total: ₹80.00
+[OVERSTOCK_CLEARANCE] Product #47: ₹16.73 -> ₹15.06
+[16:12:27] Order #1573 placed by Varun Aggarwal: 1 item(s) | Total: ₹45.18
+[OVERSTOCK_CLEARANCE] Product #99: ₹36.61 -> ₹32.95
+[OVERSTOCK_CLEARANCE] Product #2: ₹7.77 -> ₹6.99
+[16:12:28] Order #1574 placed by Karan Mehta: 2 item(s) | Total: ₹53.92
+[OVERSTOCK_CLEARANCE] Product #82: ₹12.05 -> ₹10.85
+[OVERSTOCK_CLEARANCE] Product #79: ₹5.23 -> ₹4.71
+[16:12:29] Order #1575 placed by Riya Kapoor: 3 item(s) | Total: ₹76.64
+[OVERSTOCK_CLEARANCE] Product #37: ₹19.21 -> ₹17.29
+[OVERSTOCK_CLEARANCE] Product #47: ₹15.06 -> ₹13.55
+[16:12:30] Order #1576 placed by Divya Rao: 2 item(s) | Total: ₹75.23
+[OVERSTOCK_CLEARANCE] Product #47: ₹13.55 -> ₹12.2
+[OVERSTOCK_CLEARANCE] Product #60: ₹15.53 -> ₹13.98
+[16:12:31] Order #1577 placed by Divya Rao: 3 item(s) | Total: ₹70.93
+[OVERSTOCK_CLEARANCE] Product #88: ₹25.16 -> ₹22.64
+[16:12:32] Order #1578 placed by Ananya Verma: 3 item(s) | Total: ₹342.72
+[OVERSTOCK_CLEARANCE] Product #33: ₹5.09 -> ₹4.58
+[16:12:33] Order #1579 placed by Manish Kumar: 1 item(s) | Total: ₹9.16
+[OVERSTOCK_CLEARANCE] Product #16: ₹13.95 -> ₹12.55
+[OVERSTOCK_CLEARANCE] Product #42: ₹17.71 -> ₹15.94
+[OVERSTOCK_CLEARANCE] Product #32: ₹10.63 -> ₹9.57
+[16:12:34] Order #1580 placed by Aarav Sharma: 3 item(s) | Total: ₹98.24
+[OVERSTOCK_CLEARANCE] Product #33: ₹4.58 -> ₹4.12
+[OVERSTOCK_CLEARANCE] Product #78: ₹12.20 -> ₹10.98
+[OVERSTOCK_CLEARANCE] Product #87: ₹20.34 -> ₹18.31
+[16:12:35] Order #1581 placed by Aarav Sharma: 3 item(s) | Total: ₹59.96
+[OVERSTOCK_CLEARANCE] Product #78: ₹10.98 -> ₹9.88
+[16:12:36] Order #1582 placed by Ananya Verma: 1 item(s) | Total: ₹9.88
+[OVERSTOCK_CLEARANCE] Product #40: ₹12.55 -> ₹11.3
+[16:12:37] Order #1583 placed by Vikram Singh: 2 item(s) | Total: ₹153.90
+[OVERSTOCK_CLEARANCE] Product #73: ₹10.67 -> ₹9.6
+[OVERSTOCK_CLEARANCE] Product #97: ₹82.66 -> ₹74.39
+[16:12:38] Order #1584 placed by Riya Kapoor: 3 item(s) | Total: ₹179.69
+[OVERSTOCK_CLEARANCE] Product #28: ₹10.98 -> ₹9.88
+[OVERSTOCK_CLEARANCE] Product #10: ₹13.38 -> ₹12.04
+[OVERSTOCK_CLEARANCE] Product #36: ₹17.25 -> ₹15.53
+[16:12:39] Order #1585 placed by Siddharth Malhotra: 3 item(s) | Total: ₹57.21
+[OVERSTOCK_CLEARANCE] Product #17: ₹13.95 -> ₹12.55
+[OVERSTOCK_CLEARANCE] Product #37: ₹17.29 -> ₹15.56
+[OVERSTOCK_CLEARANCE] Product #79: ₹4.71 -> ₹4.24
+[16:12:40] Order #1586 placed by Vikram Singh: 3 item(s) | Total: ₹40.83
+[OVERSTOCK_CLEARANCE] Product #47: ₹12.20 -> ₹10.98
+[16:12:41] Order #1587 placed by Siddharth Malhotra: 1 item(s) | Total: ₹21.96
+[OVERSTOCK_CLEARANCE] Product #72: ₹9.04 -> ₹8.14
+[16:12:42] Order #1588 placed by Varun Aggarwal: 2 item(s) | Total: ₹191.24
+[OVERSTOCK_CLEARANCE] Product #34: ₹10.46 -> ₹9.41
+[16:12:43] Order #1589 placed by Neha Reddy: 1 item(s) | Total: ₹28.23
+[OVERSTOCK_CLEARANCE] Product #66: ₹27.67 -> ₹24.9
+[OVERSTOCK_CLEARANCE] Product #100: ₹32.92 -> ₹29.63
+[OVERSTOCK_CLEARANCE] Product #18: ₹12.55 -> ₹11.3
+[16:12:44] Order #1590 placed by Siddharth Malhotra: 3 item(s) | Total: ₹106.76
+[OVERSTOCK_CLEARANCE] Product #33: ₹4.12 -> ₹3.71
+[OVERSTOCK_CLEARANCE] Product #28: ₹9.88 -> ₹8.89
+[16:12:45] Order #1591 placed by Karan Mehta: 3 item(s) | Total: ₹194.98
+[OVERSTOCK_CLEARANCE] Product #28: ₹8.89 -> ₹8.0
+[OVERSTOCK_CLEARANCE] Product #53: ₹21.30 -> ₹19.17
+[16:12:46] Order #1592 placed by Amitav Ghosh: 3 item(s) | Total: ₹415.43
+[16:12:47] Order #1593 placed by Karan Mehta: 1 item(s) | Total: ₹148.78
+[16:12:48] Order #1594 placed by Varun Aggarwal: 1 item(s) | Total: ₹50.36
+[OVERSTOCK_CLEARANCE] Product #28: ₹8.00 -> ₹7.2
+[16:12:49] Order #1595 placed by Manish Kumar: 1 item(s) | Total: ₹7.20
+[OVERSTOCK_CLEARANCE] Product #11: ₹32.47 -> ₹29.22
+[16:12:50] Order #1596 placed by Rohan Gupta: 1 item(s) | Total: ₹87.66
+[16:12:51] Order #1597 placed by Kavya Nair: 2 item(s) | Total: ₹529.92
+[OVERSTOCK_CLEARANCE] Product #6: ₹8.34 -> ₹7.51
+[OVERSTOCK_CLEARANCE] Product #16: ₹12.55 -> ₹11.3
+[16:12:53] Order #1598 placed by Kavya Nair: 3 item(s) | Total: ₹828.92
+[OVERSTOCK_CLEARANCE] Product #16: ₹11.30 -> ₹10.17
+[OVERSTOCK_CLEARANCE] Product #38: ₹8.47 -> ₹7.62
+[16:12:54] Order #1599 placed by Tarun Prasad: 3 item(s) | Total: ₹176.74
+[OVERSTOCK_CLEARANCE] Product #32: ₹9.57 -> ₹8.61
+[OVERSTOCK_CLEARANCE] Product #57: ₹24.17 -> ₹21.75
+[16:12:55] Order #1600 placed by Siddharth Malhotra: 3 item(s) | Total: ₹138.45
+[HIGH_DEMAND_SURGE] Product #8: ₹74.39 -> ₹85.55
+[16:12:56] Order #1601 placed by Siddharth Malhotra: 2 item(s) | Total: ₹501.10
+[16:12:57] Order #1602 placed by Riya Kapoor: 1 item(s) | Total: ₹51.66
+[OVERSTOCK_CLEARANCE] Product #71: ₹18.18 -> ₹16.36
+[OVERSTOCK_CLEARANCE] Product #23: ₹71.68 -> ₹64.51
+[16:12:58] Order #1603 placed by Siddharth Malhotra: 2 item(s) | Total: ₹226.25
+[OVERSTOCK_CLEARANCE] Product #64: ₹13.22 -> ₹11.9
+[16:12:59] Order #1604 placed by Karan Mehta: 1 item(s) | Total: ₹23.80
+[16:13:00] Order #1605 placed by Ananya Verma: 1 item(s) | Total: ₹131.88
+[OVERSTOCK_CLEARANCE] Product #48: ₹9.88 -> ₹8.89
+[OVERSTOCK_CLEARANCE] Product #6: ₹7.51 -> ₹6.76
+[OVERSTOCK_CLEARANCE] Product #79: ₹4.24 -> ₹3.82
+[16:13:01] Order #1606 placed by Divya Rao: 3 item(s) | Total: ₹47.83
+[OVERSTOCK_CLEARANCE] Product #18: ₹11.30 -> ₹10.17
+[OVERSTOCK_CLEARANCE] Product #72: ₹8.14 -> ₹7.33
+[16:13:02] Order #1607 placed by Kavya Nair: 2 item(s) | Total: ₹42.33
+[OVERSTOCK_CLEARANCE] Product #96: ₹12.76 -> ₹11.48
+[OVERSTOCK_CLEARANCE] Product #26: ₹5.09 -> ₹4.58
+[OVERSTOCK_CLEARANCE] Product #27: ₹13.56 -> ₹12.2
+[16:13:03] Order #1608 placed by Tarun Prasad: 3 item(s) | Total: ₹28.26
+[OVERSTOCK_CLEARANCE] Product #17: ₹12.55 -> ₹11.3
+[16:13:04] Order #1609 placed by Manish Kumar: 1 item(s) | Total: ₹22.60
+[OVERSTOCK_CLEARANCE] Product #19: ₹76.76 -> ₹69.08
+[OVERSTOCK_CLEARANCE] Product #70: ₹26.67 -> ₹24.0
+[16:13:05] Order #1610 placed by Amitav Ghosh: 2 item(s) | Total: ₹210.16
+
+=============================================
+SALES DASHBOARD
+=============================================
+ Total Orders Executed   : 600
+ Total Units Sold       : 2376
+ Total Gross Revenue    : ₹343,289.95
+ Total Price Audit Logs : 921 changes recorded
+=============================================

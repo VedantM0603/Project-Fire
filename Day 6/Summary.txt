@@ -1,0 +1,7 @@
+Customer Lifetime Value (LTV) Reporting: Built the vw_Customer_LTV view in SSMS to calculate total historical spend, average order value (AOV), and purchase frequency per customer.
+
+Product Sales Performance Views: Created vw_Product_Performance to aggregate sales volume, current stock levels, and gross revenue generated per product.
+
+Executive KPI Reporting Dashboard: Formed vw_Executive_KPIs to deliver top-level business performance metrics (total orders, total revenue, unique active buyers, overall AOV).
+
+Python BI Reporting Engine: Developed a Python analytics module to query persistent SQL views directly and present structured executive reports to the console.

@@ -1,0 +1,5 @@
+Automated Stock Monitoring: Added threshold-checking logic inside the order pipeline to detect low inventory states (when product stock falls below < 5 units).
+
+Auto-Restock Engine: Integrated dynamic inventory replenishment (+20 units) directly into the transactional block so products never run completely out of stock.
+
+Audit Trail Logging: Created and wired up an Inventory_Logs table in SSMS to log every automated restock event (AUTO_RESTOCK) alongside timestamped audit trails.

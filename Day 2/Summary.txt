@@ -1,0 +1,7 @@
+Database Driver Migration: Configured Python with Microsoft ODBC Driver 18 for SQL Server using local encryption (TrustServerCertificate=yes).
+
+Order Processing Loop: Built an automated execution loop in Python that picks active products from SQL Server and simulates live purchase activity.
+
+ACID Compliance & Data Safety: Implemented explicit transaction controls (conn.commit() and conn.rollback()) to ensure inventory deductions and order creation happen together atomically or fail safely without corrupting data.
+
+Schema Integrity Resolution: Resolved SQL Server constraint errors (Error 207: Invalid Column Name and Error 515: NOT NULL Constraint Violation) by synchronizing Python tuple values directly with table definitions (product_id, quantity, current_price, sold_at_price).

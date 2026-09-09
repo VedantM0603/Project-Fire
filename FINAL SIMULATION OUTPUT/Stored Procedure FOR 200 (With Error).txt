@@ -1,0 +1,212 @@
+[16:15:47] Connected to Project Fire - Running Stored Procedure Engine...
+
+[16:15:47] Stored Proc Executed -> Order #1616 created for Customer #11 | Total: ₹56.68
+[16:15:48] Stored Proc Executed -> Order #1617 created for Customer #16 | Total: ₹89.82
+[16:15:49] Stored Proc Executed -> Order #1618 created for Customer #3 | Total: ₹461.13
+[16:15:50] Stored Proc Executed -> Order #1619 created for Customer #20 | Total: ₹87.06
+[16:15:51] Stored Proc Executed -> Order #1620 created for Customer #2 | Total: ₹317.02
+[16:15:52] Stored Proc Executed -> Order #1621 created for Customer #11 | Total: ₹91.49
+[16:15:53] Stored Proc Executed -> Order #1622 created for Customer #14 | Total: ₹461.13
+[16:15:54] Stored Proc Executed -> Order #1623 created for Customer #6 | Total: ₹28.11
+[16:15:55] Stored Proc Executed -> Order #1624 created for Customer #5 | Total: ₹124.69
+[16:15:56] Stored Proc Executed -> Order #1625 created for Customer #2 | Total: ₹41.82
+[16:15:57] Stored Proc Executed -> Order #1626 created for Customer #7 | Total: ₹54.56
+[16:15:58] Stored Proc Executed -> Order #1627 created for Customer #4 | Total: ₹28.95
+[16:15:59] Stored Proc Executed -> Order #1628 created for Customer #1 | Total: ₹40.92
+[16:16:00] Stored Proc Executed -> Order #1629 created for Customer #20 | Total: ₹23.34
+[16:16:01] Stored Proc Executed -> Order #1630 created for Customer #11 | Total: ₹38.63
+[16:16:02] Stored Proc Executed -> Order #1631 created for Customer #7 | Total: ₹72.28
+[16:16:03] Stored Proc Executed -> Order #1632 created for Customer #13 | Total: ₹22.94
+[16:16:04] Stored Proc Executed -> Order #1633 created for Customer #9 | Total: ₹139.76
+[16:16:05] Stored Proc Executed -> Order #1634 created for Customer #6 | Total: ₹219.06
+[16:16:06] Stored Proc Executed -> Order #1635 created for Customer #8 | Total: ₹651.22
+[16:16:07] Stored Proc Executed -> Order #1636 created for Customer #2 | Total: ₹159.47
+[16:16:08] Stored Proc Executed -> Order #1637 created for Customer #4 | Total: ₹86.76
+[16:16:09] Stored Proc Executed -> Order #1638 created for Customer #7 | Total: ₹31.97
+[16:16:10] Stored Proc Executed -> Order #1639 created for Customer #19 | Total: ₹102.53
+[16:16:11] Stored Proc Executed -> Order #1640 created for Customer #3 | Total: ₹32.89
+[16:16:12] Stored Proc Executed -> Order #1641 created for Customer #15 | Total: ₹68.74
+[16:16:13] Stored Proc Executed -> Order #1642 created for Customer #7 | Total: ₹53.51
+[16:16:14] Stored Proc Executed -> Order #1643 created for Customer #13 | Total: ₹168.40
+[16:16:15] Stored Proc Executed -> Order #1644 created for Customer #19 | Total: ₹70.36
+[16:16:16] Stored Proc Executed -> Order #1645 created for Customer #5 | Total: ₹42.98
+[16:16:17] Stored Proc Executed -> Order #1646 created for Customer #17 | Total: ₹44.29
+[16:16:18] Stored Proc Executed -> Order #1647 created for Customer #11 | Total: ₹432.90
+[16:16:19] Stored Proc Executed -> Order #1648 created for Customer #10 | Total: ₹42.02
+[16:16:20] Stored Proc Executed -> Order #1649 created for Customer #14 | Total: ₹209.06
+[16:16:21] Stored Proc Executed -> Order #1650 created for Customer #20 | Total: ₹26.84
+[16:16:22] Stored Proc Executed -> Order #1651 created for Customer #7 | Total: ₹118.89
+[16:16:23] Stored Proc Executed -> Order #1652 created for Customer #10 | Total: ₹37.66
+[16:16:24] Stored Proc Executed -> Order #1653 created for Customer #13 | Total: ₹247.86
+[16:16:25] Stored Proc Executed -> Order #1654 created for Customer #15 | Total: ₹306.26
+[16:16:26] Stored Proc Executed -> Order #1655 created for Customer #14 | Total: ₹38.74
+[16:16:27] Stored Proc Executed -> Order #1656 created for Customer #20 | Total: ₹56.80
+[16:16:28] Stored Proc Executed -> Order #1657 created for Customer #2 | Total: ₹151.24
+[16:16:29] Stored Proc Executed -> Order #1658 created for Customer #17 | Total: ₹94.85
+[16:16:30] Stored Proc Executed -> Order #1659 created for Customer #6 | Total: ₹363.21
+[16:16:31] Stored Proc Executed -> Order #1660 created for Customer #5 | Total: ₹286.87
+[16:16:32] Stored Proc Executed -> Order #1661 created for Customer #5 | Total: ₹56.44
+[16:16:34] Stored Proc Executed -> Order #1662 created for Customer #12 | Total: ₹160.84
+[16:16:35] Stored Proc Executed -> Order #1663 created for Customer #2 | Total: ₹15.91
+[16:16:36] Stored Proc Executed -> Order #1664 created for Customer #13 | Total: ₹305.97
+[16:16:37] Stored Proc Executed -> Order #1665 created for Customer #16 | Total: ₹379.38
+[16:16:38] Stored Proc Executed -> Order #1666 created for Customer #20 | Total: ₹22.60
+[16:16:39] Stored Proc Executed -> Order #1667 created for Customer #2 | Total: ₹365.14
+[16:16:40] Stored Proc Executed -> Order #1668 created for Customer #14 | Total: ₹342.24
+[16:16:41] Stored Proc Executed -> Order #1669 created for Customer #5 | Total: ₹86.34
+[16:16:42] Stored Proc Executed -> Order #1670 created for Customer #20 | Total: ₹144.76
+[16:16:43] Stored Proc Executed -> Order #1671 created for Customer #19 | Total: ₹246.28
+[16:16:44] Stored Proc Executed -> Order #1672 created for Customer #7 | Total: ₹84.30
+[16:16:45] Stored Proc Executed -> Order #1673 created for Customer #16 | Total: ₹225.08
+[16:16:46] Stored Proc Executed -> Order #1674 created for Customer #4 | Total: ₹135.88
+[16:16:47] Stored Proc Executed -> Order #1675 created for Customer #17 | Total: ₹241.70
+[16:16:48] Stored Proc Executed -> Order #1676 created for Customer #19 | Total: ₹40.04
+[16:16:49] Stored Proc Executed -> Order #1677 created for Customer #13 | Total: ₹178.32
+[16:16:50] Stored Proc Executed -> Order #1678 created for Customer #20 | Total: ₹39.61
+[16:16:51] Stored Proc Executed -> Order #1679 created for Customer #12 | Total: ₹1,116.84
+[16:16:52] Stored Proc Executed -> Order #1680 created for Customer #6 | Total: ₹132.52
+[16:16:53] Stored Proc Executed -> Order #1681 created for Customer #11 | Total: ₹117.14
+[16:16:54] Stored Proc Executed -> Order #1682 created for Customer #12 | Total: ₹98.73
+[16:16:55] Stored Proc Executed -> Order #1683 created for Customer #15 | Total: ₹97.40
+[16:16:56] Stored Proc Executed -> Order #1684 created for Customer #7 | Total: ₹79.43
+[16:16:57] Stored Proc Executed -> Order #1685 created for Customer #10 | Total: ₹74.82
+[16:16:58] Stored Proc Executed -> Order #1686 created for Customer #20 | Total: ₹73.75
+[16:16:59] Stored Proc Executed -> Order #1687 created for Customer #1 | Total: ₹31.06
+[16:17:00] Stored Proc Executed -> Order #1688 created for Customer #19 | Total: ₹139.78
+[16:17:01] Stored Proc Executed -> Order #1689 created for Customer #9 | Total: ₹137.84
+[16:17:02] Stored Proc Executed -> Order #1690 created for Customer #17 | Total: ₹136.72
+[16:17:03] Stored Proc Executed -> Order #1691 created for Customer #9 | Total: ₹176.50
+[16:17:04] Stored Proc Executed -> Order #1692 created for Customer #7 | Total: ₹47.36
+[16:17:05] Stored Proc Executed -> Order #1693 created for Customer #17 | Total: ₹62.36
+[16:17:06] Stored Proc Executed -> Order #1694 created for Customer #8 | Total: ₹103.69
+[16:17:07] Stored Proc Executed -> Order #1695 created for Customer #3 | Total: ₹9.52
+[16:17:08] Stored Proc Executed -> Order #1696 created for Customer #14 | Total: ₹25.33
+[16:17:09] Stored Proc Executed -> Order #1697 created for Customer #14 | Total: ₹25.44
+[16:17:10] Stored Proc Executed -> Order #1698 created for Customer #15 | Total: ₹372.20
+[16:17:11] Stored Proc Executed -> Order #1699 created for Customer #9 | Total: ₹74.76
+[16:17:12] Stored Proc Executed -> Order #1700 created for Customer #16 | Total: ₹30.94
+[16:17:13] Stored Proc Executed -> Order #1701 created for Customer #4 | Total: ₹146.96
+[16:17:14] Stored Proc Executed -> Order #1702 created for Customer #4 | Total: ₹147.24
+[16:17:15] Stored Proc Executed -> Order #1703 created for Customer #12 | Total: ₹344.56
+[16:17:16] Stored Proc Executed -> Order #1704 created for Customer #13 | Total: ₹36.00
+[16:17:17] Stored Proc Executed -> Order #1705 created for Customer #10 | Total: ₹63.51
+[16:17:18] Stored Proc Executed -> Order #1706 created for Customer #1 | Total: ₹100.22
+[16:17:19] Stored Proc Executed -> Order #1707 created for Customer #1 | Total: ₹57.35
+[16:17:20] Stored Proc Executed -> Order #1708 created for Customer #11 | Total: ₹48.91
+[16:17:21] Stored Proc Executed -> Order #1709 created for Customer #2 | Total: ₹179.41
+[16:17:22] Stored Proc Executed -> Order #1710 created for Customer #7 | Total: ₹91.49
+[16:17:23] Stored Proc Executed -> Order #1711 created for Customer #4 | Total: ₹61.56
+[16:17:24] Stored Proc Executed -> Order #1712 created for Customer #19 | Total: ₹84.62
+[16:17:25] Stored Proc Executed -> Order #1713 created for Customer #10 | Total: ₹49.81
+[16:17:26] Stored Proc Executed -> Order #1714 created for Customer #13 | Total: ₹31.57
+[16:17:27] Stored Proc Executed -> Order #1715 created for Customer #2 | Total: ₹145.83
+[16:17:29] Stored Proc Executed -> Order #1716 created for Customer #4 | Total: ₹190.86
+[16:17:30] Stored Proc Executed -> Order #1717 created for Customer #11 | Total: ₹430.04
+[16:17:31] Stored Proc Executed -> Order #1718 created for Customer #15 | Total: ₹29.06
+[16:17:32] Stored Proc Executed -> Order #1719 created for Customer #19 | Total: ₹114.07
+[16:17:33] Stored Proc Executed -> Order #1720 created for Customer #17 | Total: ₹72.10
+[16:17:34] Stored Proc Executed -> Order #1721 created for Customer #10 | Total: ₹33.45
+[16:17:35] Stored Proc Executed -> Order #1722 created for Customer #6 | Total: ₹77.90
+[16:17:36] Stored Proc Executed -> Order #1723 created for Customer #10 | Total: ₹65.54
+[16:17:37] Stored Proc Executed -> Order #1724 created for Customer #9 | Total: ₹45.63
+[16:17:38] Stored Proc Executed -> Order #1725 created for Customer #1 | Total: ₹150.27
+[16:17:39] Stored Proc Executed -> Order #1726 created for Customer #17 | Total: ₹48.34
+[16:17:40] Stored Proc Executed -> Order #1727 created for Customer #16 | Total: ₹80.40
+[16:17:41] Stored Proc Executed -> Order #1728 created for Customer #4 | Total: ₹34.17
+[16:17:42] Stored Proc Executed -> Order #1729 created for Customer #15 | Total: ₹7.42
+[16:17:43] Stored Proc Executed -> Order #1730 created for Customer #13 | Total: ₹155.48
+[16:17:44] Stored Proc Executed -> Order #1731 created for Customer #11 | Total: ₹62.46
+[16:17:45] Stored Proc Executed -> Order #1732 created for Customer #19 | Total: ₹386.18
+[16:17:46] Stored Proc Executed -> Order #1733 created for Customer #7 | Total: ₹95.48
+[16:17:47] Stored Proc Executed -> Order #1734 created for Customer #4 | Total: ₹171.66
+[16:17:48] Stored Proc Executed -> Order #1735 created for Customer #12 | Total: ₹31.09
+[16:17:49] Stored Proc Executed -> Order #1736 created for Customer #19 | Total: ₹26.11
+[16:17:50] Stored Proc Executed -> Order #1737 created for Customer #11 | Total: ₹33.18
+[16:17:51] Stored Proc Executed -> Order #1738 created for Customer #5 | Total: ₹114.06
+[16:17:52] Stored Proc Executed -> Order #1739 created for Customer #10 | Total: ₹67.58
+[16:17:53] Stored Proc Executed -> Order #1740 created for Customer #11 | Total: ₹385.83
+[16:17:54] Stored Proc Executed -> Order #1741 created for Customer #10 | Total: ₹46.77
+[16:17:55] Stored Proc Executed -> Order #1742 created for Customer #12 | Total: ₹25.35
+[16:17:56] Stored Proc Executed -> Order #1743 created for Customer #18 | Total: ₹97.59
+[16:17:57] Stored Proc Executed -> Order #1744 created for Customer #6 | Total: ₹33.30
+[16:17:58] Stored Proc Executed -> Order #1745 created for Customer #10 | Total: ₹57.19
+[16:17:59] Stored Proc Executed -> Order #1746 created for Customer #14 | Total: ₹25.10
+[16:18:00] Stored Proc Executed -> Order #1747 created for Customer #20 | Total: ₹53.81
+[16:18:01] Stored Proc Executed -> Order #1748 created for Customer #7 | Total: ₹224.58
+[16:18:02] Stored Proc Executed -> Order #1749 created for Customer #9 | Total: ₹267.96
+[16:18:03] Stored Proc Executed -> Order #1750 created for Customer #15 | Total: ₹369.41
+[16:18:04] Stored Proc Executed -> Order #1751 created for Customer #20 | Total: ₹69.28
+[16:18:05] Stored Proc Executed -> Order #1752 created for Customer #5 | Total: ₹148.49
+[16:18:06] Stored Proc Executed -> Order #1753 created for Customer #2 | Total: ₹48.91
+[16:18:07] Stored Proc Executed -> Order #1754 created for Customer #9 | Total: ₹81.09
+[16:18:08] Stored Proc Executed -> Order #1755 created for Customer #16 | Total: ₹270.42
+[16:18:09] Stored Proc Executed -> Order #1756 created for Customer #7 | Total: ₹440.29
+[16:18:10] Stored Proc Executed -> Order #1757 created for Customer #1 | Total: ₹38.08
+[16:18:11] Stored Proc Executed -> Order #1758 created for Customer #11 | Total: ₹80.39
+[16:18:12] Stored Proc Executed -> Order #1759 created for Customer #15 | Total: ₹139.07
+[16:18:13] Stored Proc Executed -> Order #1760 created for Customer #6 | Total: ₹371.30
+[16:18:14] Stored Proc Executed -> Order #1761 created for Customer #15 | Total: ₹108.15
+[16:18:15] Stored Proc Executed -> Order #1762 created for Customer #12 | Total: ₹143.68
+[16:18:16] Stored Proc Executed -> Order #1763 created for Customer #10 | Total: ₹480.23
+[16:18:17] Stored Proc Executed -> Order #1764 created for Customer #9 | Total: ₹75.50
+[16:18:18] Stored Proc Executed -> Order #1765 created for Customer #20 | Total: ₹140.20
+[16:18:19] Stored Proc Executed -> Order #1766 created for Customer #5 | Total: ₹229.88
+[16:18:20] Stored Proc Executed -> Order #1767 created for Customer #13 | Total: ₹258.74
+[16:18:21] Stored Proc Executed -> Order #1768 created for Customer #15 | Total: ₹82.44
+[16:18:22] Stored Proc Executed -> Order #1769 created for Customer #8 | Total: ₹135.78
+[16:18:23] Stored Proc Executed -> Order #1770 created for Customer #12 | Total: ₹66.53
+[16:18:24] Stored Proc Executed -> Order #1771 created for Customer #2 | Total: ₹82.59
+[16:18:25] Stored Proc Executed -> Order #1772 created for Customer #9 | Total: ₹660.80
+[16:18:26] Stored Proc Executed -> Order #1773 created for Customer #6 | Total: ₹125.52
+[16:18:27] Stored Proc Executed -> Order #1774 created for Customer #7 | Total: ₹84.05
+[16:18:28] Stored Proc Executed -> Order #1775 created for Customer #12 | Total: ₹86.34
+[16:18:29] Stored Proc Executed -> Order #1776 created for Customer #16 | Total: ₹22.95
+[16:18:31] Stored Proc Executed -> Order #1777 created for Customer #1 | Total: ₹57.60
+[16:18:32] Stored Proc Executed -> Order #1778 created for Customer #8 | Total: ₹39.39
+[16:18:33] Stored Proc Executed -> Order #1779 created for Customer #17 | Total: ₹448.61
+[16:18:34] Stored Proc Executed -> Order #1780 created for Customer #5 | Total: ₹264.10
+[16:18:35] Stored Proc Executed -> Order #1781 created for Customer #2 | Total: ₹43.22
+[16:18:36] Stored Proc Executed -> Order #1782 created for Customer #19 | Total: ₹170.58
+[16:18:37] Stored Proc Executed -> Order #1783 created for Customer #12 | Total: ₹145.92
+[16:18:38] Stored Proc Executed -> Order #1784 created for Customer #1 | Total: ₹265.08
+[16:18:39] Stored Proc Executed -> Order #1785 created for Customer #19 | Total: ₹420.75
+[16:18:40] Stored Proc Executed -> Order #1786 created for Customer #6 | Total: ₹167.07
+[16:18:41] Stored Proc Executed -> Order #1787 created for Customer #3 | Total: ₹41.29
+[16:18:42] Stored Proc Executed -> Order #1788 created for Customer #17 | Total: ₹59.22
+[16:18:43] Stored Proc Executed -> Order #1789 created for Customer #7 | Total: ₹36.96
+[16:18:44] Stored Proc Executed -> Order #1790 created for Customer #5 | Total: ₹22.33
+[16:18:45] Stored Proc Executed -> Order #1791 created for Customer #16 | Total: ₹243.96
+[16:18:46] Stored Proc Executed -> Order #1792 created for Customer #6 | Total: ₹20.16
+[16:18:47] Stored Proc Executed -> Order #1793 created for Customer #11 | Total: ₹40.08
+[16:18:48] Stored Proc Executed -> Order #1794 created for Customer #13 | Total: ₹149.90
+[16:18:49] Stored Proc Executed -> Order #1795 created for Customer #11 | Total: ₹47.51
+[16:18:50] Stored Proc Executed -> Order #1796 created for Customer #9 | Total: ₹57.24
+[16:18:51] Stored Proc Executed -> Order #1797 created for Customer #12 | Total: ₹46.59
+[16:18:52] Stored Proc Executed -> Order #1798 created for Customer #18 | Total: ₹373.29
+[16:18:53] Stored Proc Executed -> Order #1799 created for Customer #5 | Total: ₹52.67
+[16:18:54] Stored Proc Executed -> Order #1800 created for Customer #9 | Total: ₹131.65
+[16:18:55] Stored Proc Executed -> Order #1801 created for Customer #16 | Total: ₹66.60
+Error executing : ('42000', '[42000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Insufficient stock quantity available. (50000) (SQLExecDirectW)')
+
+
+
+REASON FOR ERROR :-
+1. INVENTORY DEPLETION (Expected Business Logic Behavior):
+   During the execution of the 200-order simulation, 186 consecutive orders 
+   (#1616 to #1801) were successfully processed and committed. This high volume 
+   depleted the available `stock_quantity` for certain popular items in the 
+   `Products` table down to zero.
+
+2. STORED PROCEDURE GUARD CLAUSE TRIGGERED:
+   The stored procedure `sp_AddOrderItemAndDeductStock` functioned correctly. 
+   When Order #1802 requested an item with insufficient inventory, the 
+   procedure's safety check detected the shortfall and raised a custom SQL 
+   error using `RAISERROR('Insufficient stock quantity available.', 16, 1)`, 
+   initiating an automatic transaction ROLLBACK.
+
+3. UNHANDLED EXCEPTION IN PYTHON SIMULATION:
+   The Python driver (`pyodbc`) caught the SQL `RAISERROR` signal as an 
+   exception. Because the simulation script lacked a `try...except pyodbc.Error` 
+   block around the stored procedure execution, Python halted process execution 
+   instead of handling the out-of-stock scenario gracefully and continuing to 
+   the next iteration.
